@@ -1,1 +1,495 @@
-Ford Motor,https://www.investing.com/equities/ford-motor-coTwitter Inc,https://www.investing.com/equities/twitter-incApple,https://www.investing.com/equities/apple-computer-incGeneral Motors,https://www.investing.com/equities/gen-motorsGeneral Electric,https://www.investing.com/equities/general-electricBank of America,https://www.investing.com/equities/bank-of-americaCisco,https://www.investing.com/equities/cisco-sys-incAMD,https://www.investing.com/equities/adv-micro-deviceAT&T,https://www.investing.com/equities/at-tFreeport-McMoran,https://www.investing.com/equities/freeport-mcmTesla,https://www.investing.com/equities/tesla-motorsTechnipFMC,https://www.investing.com/equities/fmc-technologies-incPfizer,https://www.investing.com/equities/pfizerAmerican Airlines,https://www.investing.com/equities/american-airlines-groupCarnival Corp,https://www.investing.com/equities/carnival-corp-exchExxon Mobil,https://www.investing.com/equities/exxon-mobilCoty Inc,https://www.investing.com/equities/coty-incCoca-Cola,https://www.investing.com/equities/coca-cola-coOccidental,https://www.investing.com/equities/occidental-petroMicrosoft,https://www.investing.com/equities/microsoft-corpWells Fargo&Co,https://www.investing.com/equities/wells-fargoMarathon Oil,https://www.investing.com/equities/marathon-oilLumen Technologies,https://www.investing.com/equities/centurylinkHewlett Packard,https://www.investing.com/equities/hewlett-packard-enterprise-coComcast,https://www.investing.com/equities/comcast-corp-newIntel,https://www.investing.com/equities/intel-corpVerizon,https://www.investing.com/equities/verizon-communicationsFacebook,https://www.investing.com/equities/facebook-incHanesbrands,https://www.investing.com/equities/hanesbrandsNorwegian Cruise Line,https://www.investing.com/equities/norwegian-cruise-line-holdings-ltdViacomCBS,https://www.investing.com/equities/viacom-cl-bMondelez,https://www.investing.com/equities/mondelez-international-incMGM,https://www.investing.com/equities/mgm-mirageBristol-Myers Squibb,https://www.investing.com/equities/bristol-myer-squiibUnder Armour A,https://www.investing.com/equities/under-armourCitigroup,https://www.investing.com/equities/citigroupUnder Armour C,https://www.investing.com/equities/under-armour-cNVIDIA,https://www.investing.com/equities/nvidia-corpQualcomm,https://www.investing.com/equities/qualcomm-incDelta Air Lines,https://www.investing.com/equities/delta-air-lines-newAmcor PLC,https://www.investing.com/equities/amcor-plcDevon Energy,https://www.investing.com/equities/devon-energySchlumberger,https://www.investing.com/equities/schlumberger-ltdBoeing,https://www.investing.com/equities/boeing-coMacy’s Inc,https://www.investing.com/equities/macysWalt Disney,https://www.investing.com/equities/disneyMerck&Co,https://www.investing.com/equities/merck---coKinder Morgan,https://www.investing.com/equities/kinder-morganConocoPhillips,https://www.investing.com/equities/conoco-phillipsDuPont De Nemours,https://www.investing.com/equities/du-pontJPMorgan,https://www.investing.com/equities/jp-morgan-chaseMicron,https://www.investing.com/equities/micron-techUnited Airlines Holdings,https://www.investing.com/equities/united-continentaHalliburton,https://www.investing.com/equities/halliburton-coWilliams,https://www.investing.com/equities/williams-cosOracle,https://www.investing.com/equities/oracle-corpPayPal Holdings Inc,https://www.investing.com/equities/paypal-holdings-incAkamai,https://www.investing.com/equities/akamai-technologies-incIPG,https://www.investing.com/equities/interpublic-grpBoston Scientific,https://www.investing.com/equities/boston-scien-cpChevron,https://www.investing.com/equities/chevronVisa A,https://www.investing.com/equities/visa-incProcter&Gamble,https://www.investing.com/equities/procter-gambleApache,https://www.investing.com/equities/apache-corpIFF,https://www.investing.com/equities/intl-flav---fragGilead,https://www.investing.com/equities/gilead-sciences-incRegions Financial,https://www.investing.com/equities/regions-finAbbVie,https://www.investing.com/equities/abbvie-incFox Corp A,https://www.investing.com/equities/fox-corpCharles Schwab,https://www.investing.com/equities/charles-schwabMacerich,https://www.investing.com/equities/macerich-coFiserv,https://www.investing.com/equities/fiserv-incViatris,https://www.investing.com/equities/mylan-incMetLife,https://www.investing.com/equities/metlife-incMorgan Stanley,https://www.investing.com/equities/morgan-stanleyKroger,https://www.investing.com/equities/kroger-coWalgreens Boots,https://www.investing.com/equities/walgreen-coHost Hotels Resorts,https://www.investing.com/equities/host-hotels---resThe AES,https://www.investing.com/equities/aes-corpHuntington Bancshares,https://www.investing.com/equities/huntgtn-bkshrPepsiCo,https://www.investing.com/equities/pepsicoSouthwest Airlines,https://www.investing.com/equities/sth-west-airlinesAltria,https://www.investing.com/equities/altria-groupHP Inc,https://www.investing.com/equities/hewlett-packBaker Hughes A,https://www.investing.com/equities/baker-hughesWalmart,https://www.investing.com/equities/wal-mart-storesKraft Heinz,https://www.investing.com/equities/kraft-foods-incKimco,https://www.investing.com/equities/kimco-realtyDISH Network,https://www.investing.com/equities/dish-networkWynn Resorts,https://www.investing.com/equities/wynn-resorts-ltdKeyCorp,https://www.investing.com/equities/keycorp-newJ&J,https://www.investing.com/equities/johnson-johnsonNextEra Energy,https://www.investing.com/equities/nextera-energy-incNortonLifeLock Inc,https://www.investing.com/equities/symantec-corpHealthpeak Properties,https://www.investing.com/equities/hcp-incTapestry,https://www.investing.com/equities/coachMosaic,https://www.investing.com/equities/mosaic-companyBaxter,https://www.investing.com/equities/baxter-intlSalesforce.com,https://www.investing.com/equities/salesforce-comCabot Oil&Gas,https://www.investing.com/equities/cabot-oil---gasPeople’s United,https://www.investing.com/equities/peoples-united-financialApartment Invest,https://www.investing.com/equities/apt-inv-manageU.S. Bancorp,https://www.investing.com/equities/us-bancorpGap,https://www.investing.com/equities/gap.incPhilip Morris,https://www.investing.com/equities/philip-morris-intlFirstEnergy,https://www.investing.com/equities/first-energyDiscovery Communications C,https://www.investing.com/equities/discovery-communications-(c)Applied Materials,https://www.investing.com/equities/applied-matls-incCentene,https://www.investing.com/equities/centeneFidelity National Info,https://www.investing.com/equities/fidelity-natl-inColgate-Palmolive,https://www.investing.com/equities/colgate-palmoEOG Resources,https://www.investing.com/equities/eog-resourcesIBM,https://www.investing.com/equities/ibmActivision Blizzard,https://www.investing.com/equities/activision-incMarathon Petroleum,https://www.investing.com/equities/marathon-petroleum-corp.CVS Health Corp,https://www.investing.com/equities/cvs-corpTJX,https://www.investing.com/equities/tjx-co-incNewmont Goldcorp,https://www.investing.com/equities/newmont-miningJuniper,https://www.investing.com/equities/juniper-networks-incWestern Union,https://www.investing.com/equities/western-unioneBay,https://www.investing.com/equities/ebay-incBank of NY Mellon,https://www.investing.com/equities/bk-of-nyNov,https://www.investing.com/equities/ntl-oilwell-varcDiscovery A,https://www.investing.com/equities/discovery-holding-coRoyal Caribbean Cruises,https://www.investing.com/equities/royal-caribbeanTruist Financial Corp,https://www.investing.com/equities/bb-t-corpStarbucks,https://www.investing.com/equities/starbucks-corpSimon Property,https://www.investing.com/equities/simon-prop-grpExelon,https://www.investing.com/equities/exelon-corpAbbott Labs,https://www.investing.com/equities/abbott-laboratoriesMastercard,https://www.investing.com/equities/mastercard-cl-aNike,https://www.investing.com/equities/nikeUnitedHealth,https://www.investing.com/equities/united-health-groupInvesco,https://www.investing.com/equities/invesco-ltdNetflix,https://www.investing.com/equities/netflix,-inc.Synchrony Financial,https://www.investing.com/equities/synchrony-finRaytheon Technologies,https://www.investing.com/equities/united-techCapital One Financial,https://www.investing.com/equities/capital-oneCorning,https://www.investing.com/equities/corning-incNews Corp A,https://www.investing.com/equities/news-corp.Aflac,https://www.investing.com/equities/aflac-incFifth Third,https://www.investing.com/equities/fifth-third-bkDominion Energy,https://www.investing.com/equities/dominion-resWestern Digital,https://www.investing.com/equities/western-digitalValero Energy,https://www.investing.com/equities/valero-energyMasco,https://www.investing.com/equities/masco-corpBerkshire Hathaway B,https://www.investing.com/equities/berkshire-hathawayDow,https://www.investing.com/equities/dow-chemicalExpedia,https://www.investing.com/equities/expediaRealty Income,https://www.investing.com/equities/realty-incomeTexas Instruments,https://www.investing.com/equities/texas-instruKellogg,https://www.investing.com/equities/kellogg-co.Medtronic,https://www.investing.com/equities/medtronicTyson Foods,https://www.investing.com/equities/tyson-foodsJohnson Controls,https://www.investing.com/equities/johnson-controlsIHS Markit Ltd,https://www.investing.com/equities/markit-ltdAIG,https://www.investing.com/equities/american-intl-groupCorteva,https://www.investing.com/equities/cortevaCSX,https://www.investing.com/equities/csx-corpProgressive,https://www.investing.com/equities/the-progressiveMcDonald’s,https://www.investing.com/equities/mcdonaldsAmazon.com,https://www.investing.com/equities/amazon-com-incPPL,https://www.investing.com/equities/ppl-corpOmnicom,https://www.investing.com/equities/omnicom-gp-incONEOK,https://www.investing.com/equities/oneokGoldman Sachs,https://www.investing.com/equities/goldman-sachs-groupWeyerhaeuser,https://www.investing.com/equities/weyerhaeuserSouthern,https://www.investing.com/equities/southern-coMolson Coors Brewing B,https://www.investing.com/equities/molson-coorsHormel Foods,https://www.investing.com/equities/hormel-foods-corpEli Lilly,https://www.investing.com/equities/eli-lilly-and-coAmgen,https://www.investing.com/equities/amgen-incJefferies Financial,https://www.investing.com/equities/leucadia-natlFranklin Resources,https://www.investing.com/equities/franklin-resUnited Parcel Service,https://www.investing.com/equities/united-parcelEaton,https://www.investing.com/equities/eatonT-Mobile US,https://www.investing.com/equities/metropcs-communicationsElectronic Arts,https://www.investing.com/equities/electronic-arts-incCitizens Financial Group Inc,https://www.investing.com/equities/citizens-financial-group-incCaterpillar,https://www.investing.com/equities/caterpillarBorgWarner,https://www.investing.com/equities/borgwarnerAmerican Electric Power,https://www.investing.com/equities/american-electricLennar,https://www.investing.com/equities/lennarAmerican Express,https://www.investing.com/equities/american-expressHilton Worldwide,https://www.investing.com/equities/hilton-worldwideLowe’s,https://www.investing.com/equities/lowes-companiesTarget,https://www.investing.com/equities/targetNordstrom,https://www.investing.com/equities/nordstrom-incL Brands,https://www.investing.com/equities/limited-brandsGeneral Mills,https://www.investing.com/equities/general-millsPrudential Financial,https://www.investing.com/equities/prudential-finCME Group,https://www.investing.com/equities/cme-group-inc.Edwards Lifesciences,https://www.investing.com/equities/edward-lifescienceFortive,https://www.investing.com/equities/fortive-corpConAgra Foods,https://www.investing.com/equities/conagra-foodsPulteGroup,https://www.investing.com/equities/pulte-homes-incPioneer Natural,https://www.investing.com/equities/pioneer-natural-resourcesWelltower,https://www.investing.com/equities/health-care-reitTake-Two,https://www.investing.com/equities/take-two-interactiveCenterPoint Energy,https://www.investing.com/equities/centerpointEmerson,https://www.investing.com/equities/emerson-elecNewell Brands,https://www.investing.com/equities/newell-rubberICE,https://www.investing.com/equities/intercontintlexIron Mountain,https://www.investing.com/equities/iron-mountain-incHess,https://www.investing.com/equities/hess-corpInternational Paper,https://www.investing.com/equities/intl-paper-coHome Depot,https://www.investing.com/equities/home-depotHelmerich Payne,https://www.investing.com/equities/helmerich---payneDuke Energy,https://www.investing.com/equities/duke-energyFMC,https://www.investing.com/equities/fmc-corpHarley-Davidson,https://www.investing.com/equities/harley-davidsonVornado,https://www.investing.com/equities/vornado-realtyCerner,https://www.investing.com/equities/cerner-corporatioKohls Corp,https://www.investing.com/equities/kohls-corpIncyte,https://www.investing.com/equities/incyte-corpMaxim,https://www.investing.com/equities/maxim-integratedDR Horton,https://www.investing.com/equities/d.r.-horton-incNielsen,https://www.investing.com/equities/nielsen-holdings-nvNews Corp,https://www.investing.com/equities/news-corporationPhillips 66,https://www.investing.com/equities/phillips-66-ltdXilinx,https://www.investing.com/equities/xilinx-incDXC Technology,https://www.investing.com/equities/comp-scienceDiamondback,https://www.investing.com/equities/diamondback-energy-incFastenal,https://www.investing.com/equities/fastenal-coNucor,https://www.investing.com/equities/nucorEquity Residential,https://www.investing.com/equities/eq-residentCostco,https://www.investing.com/equities/costco-whsl-corp-newDollar General,https://www.investing.com/equities/dollar-general-corpVentas,https://www.investing.com/equities/ventas-incNiSource,https://www.investing.com/equities/ni-source-incCapri Holdings,https://www.investing.com/equities/michael-kors-holdingsClorox,https://www.investing.com/equities/clorox-coEdison,https://www.investing.com/equities/edison-intlSeagate,https://www.investing.com/equities/seagate-technologyQorvo Inc,https://www.investing.com/equities/qorvo-incCognizant A,https://www.investing.com/equities/cognizant-technology-solutioConstellation Brands A,https://www.investing.com/equities/constellation-aIqvia,https://www.investing.com/equities/quintis-trl-hlgsWestRock Co,https://www.investing.com/equities/westrock-coLyondellBasell Industries,https://www.investing.com/equities/lyondellbasell-industriesSkyworks,https://www.investing.com/equities/skyworks-solutions-incPerrigo,https://www.investing.com/equities/perrigo-coState Street,https://www.investing.com/equities/state-streetYum! Brands,https://www.investing.com/equities/yum!-brands-incArcher-Daniels-Midland,https://www.investing.com/equities/archer-daniels-midH&R Block,https://www.investing.com/equities/h---r-block-incAptiv,https://www.investing.com/equities/delphi-automotiveFedEx,https://www.investing.com/equities/fedex-corpCF Industries,https://www.investing.com/equities/cf-industries3M,https://www.investing.com/equities/3m-coXerox,https://www.investing.com/equities/xerox-corpHoneywell,https://www.investing.com/equities/honeywell-intlMicrochip,https://www.investing.com/equities/microchip-technology-incAon,https://www.investing.com/equities/aon-corpGlobal Payments,https://www.investing.com/equities/global-paymentsVertex,https://www.investing.com/equities/vertex-pharmHologic,https://www.investing.com/equities/hologic-incNetApp,https://www.investing.com/equities/network-appliance-incAllstate,https://www.investing.com/equities/allstate-corporationTripAdvisor,https://www.investing.com/equities/tripadvisorFox Corp B,https://www.investing.com/equities/fox-corp-bSealed Air,https://www.investing.com/equities/sealed-airCardinal Health,https://www.investing.com/equities/cardinal-healthTE Connectivity,https://www.investing.com/equities/te-connectivityS&P Global,https://www.investing.com/equities/mcgraw-hillAdobe,https://www.investing.com/equities/adobe-sys-incAnalog Devices,https://www.investing.com/equities/analog-devicesUnion Pacific,https://www.investing.com/equities/union-pacificUnited Dominion,https://www.investing.com/equities/udrZoetis Inc,https://www.investing.com/equities/zoetis-incWaste Management,https://www.investing.com/equities/waste-managemntAmeren,https://www.investing.com/equities/ameren-corpDollar Tree,https://www.investing.com/equities/dollar-tree-incLockheed Martin,https://www.investing.com/equities/lockheed-martinCampbell Soup,https://www.investing.com/equities/campbell-soupLincoln National,https://www.investing.com/equities/lincoln-natlMarriott Int,https://www.investing.com/equities/marriott-intlUnum,https://www.investing.com/equities/unum-groupXcel Energy,https://www.investing.com/equities/xcel-energyThermo Fisher Scientific,https://www.investing.com/equities/thermo-fisher-scZimmer Biomet,https://www.investing.com/equities/zimmer-hldgsZions,https://www.investing.com/equities/zions-bancorpPrologis,https://www.investing.com/equities/prologisEstee Lauder,https://www.investing.com/equities/estee-lauderMonster Beverage,https://www.investing.com/equities/monster-beveragePublic Service Enterprise,https://www.investing.com/equities/publ-svc-enterADP,https://www.investing.com/equities/auto-data-processHumana,https://www.investing.com/equities/humana-incAlexion,https://www.investing.com/equities/alexion-pharmaceuticals,-inc.Linde PLC,https://www.investing.com/equities/linde-plc?cid=942017Nektar,https://www.investing.com/equities/nektar-therapeuticsPNC Financial,https://www.investing.com/equities/pnc-fin-servKimberly-Clark,https://www.investing.com/equities/kimberly-clarkCMS Energy,https://www.investing.com/equities/cms-energy-corpAmerican Tower,https://www.investing.com/equities/amer-tower-corpIngersoll Rand,https://www.investing.com/equities/ingersoll-randPACCAR,https://www.investing.com/equities/paccar-incCigna,https://www.investing.com/equities/cigna-corpEversource Energy,https://www.investing.com/equities/northeast-utilitiesTravelers,https://www.investing.com/equities/the-travelers-coAir Products,https://www.investing.com/equities/air-prods---chemSysco,https://www.investing.com/equities/sysco-corpBroadcom,https://www.investing.com/equities/avago-technologiesChubb,https://www.investing.com/equities/chubb-corpHasbro,https://www.investing.com/equities/hasbro-incCrown Castle,https://www.investing.com/equities/crown-castle-intHartford,https://www.investing.com/equities/hartford-finlAlbemarle,https://www.investing.com/equities/albemarleAccenture,https://www.investing.com/equities/accenture-ltdDuke,https://www.investing.com/equities/duke-realty-corpAlaska Air,https://www.investing.com/equities/alaska-airHollyFrontier,https://www.investing.com/equities/hollyfrontier-coConsolidated Edison,https://www.investing.com/equities/cocnsol-edisonIllinois Tool Works,https://www.investing.com/equities/illinois-tool-wk-rDanaher,https://www.investing.com/equities/danaher-corpFLIR Systems,https://www.investing.com/equities/flir-systemsT Rowe,https://www.investing.com/equities/t-rowe-price-gpNRG,https://www.investing.com/equities/nrg-energy-incAmerisourceBergen,https://www.investing.com/equities/amerisourcebergnDiscover,https://www.investing.com/equities/discover-financlHCA,https://www.investing.com/equities/hca-holdings-incBiogen,https://www.investing.com/equities/biogen-idec-incGeneral Dynamics,https://www.investing.com/equities/general-dynamRollins,https://www.investing.com/equities/rollins-incRepublic Services,https://www.investing.com/equities/republic-services-incPPG Industries,https://www.investing.com/equities/ppg-industriesL3Harris Technologies,https://www.investing.com/equities/harris-corporationExpeditors Washington,https://www.investing.com/equities/expeditors-intl-wash-incAssurant,https://www.investing.com/equities/assurantAlphabet A,https://www.investing.com/equities/google-incLeggett&Platt,https://www.investing.com/equities/leggett---plattBest Buy,https://www.investing.com/equities/best-buyMarsh McLennan,https://www.investing.com/equities/marsh---mclennanFederal Realty,https://www.investing.com/equities/federal-realty-investment-trustEntergy,https://www.investing.com/equities/entergy-corpVF,https://www.investing.com/equities/vf-corpTractor Supply,https://www.investing.com/equities/tractor-supply-companyChurch&Dwight,https://www.investing.com/equities/church---dwightRoss Stores,https://www.investing.com/equities/ross-stores-incAutodesk,https://www.investing.com/equities/autodesk-incFoot Locker,https://www.investing.com/equities/foot-lockerPrincipal Financial,https://www.investing.com/equities/principal-finQuest Diagnostics,https://www.investing.com/equities/quest-diagWEC Energy,https://www.investing.com/equities/wisconsin-energy-corpIntuit,https://www.investing.com/equities/intuitFortinet,https://www.investing.com/equities/fortinetAtmos Energy,https://www.investing.com/equities/atmos-energy-corpAlphabet C,https://www.investing.com/equities/google-inc-cCadence Design,https://www.investing.com/equities/cadence-design-system-incSempra Energy,https://www.investing.com/equities/sempra-energyBoston Properties,https://www.investing.com/equities/boston-pptyAnthem,https://www.investing.com/equities/wellpoint-incAgilent Technologies,https://www.investing.com/equities/agilent-techJack Henry&Associates,https://www.investing.com/equities/jack-henry---assoAffiliated Managers,https://www.investing.com/equities/affiliated-managers-group-incLKQ,https://www.investing.com/equities/lkqBall,https://www.investing.com/equities/ball-corpDeere&Company,https://www.investing.com/equities/deere---coComerica,https://www.investing.com/equities/comerica-incCimarex Energy,https://www.investing.com/equities/cimarex-energyWestinghouse Air Brake,https://www.investing.com/equities/westinghouse-air-brake-techCharter Communications,https://www.investing.com/equities/charter-communicationsRobert Half,https://www.investing.com/equities/robert-half-intlIllumina,https://www.investing.com/equities/illumina,-inc.Xylem,https://www.investing.com/equities/xylemKeysight Technologies,https://www.investing.com/equities/keysight-technologiesEvergy,https://www.investing.com/equities/westar-energyGarmin,https://www.investing.com/equities/garmin-ltdSL Green,https://www.investing.com/equities/sl-green-realtyAmetek,https://www.investing.com/equities/ametek-incCummins,https://www.investing.com/equities/cummins-incPaychex,https://www.investing.com/equities/paychex-incAdvance Auto Parts,https://www.investing.com/equities/advance-auto-partsAmphenol,https://www.investing.com/equities/amphenol-corpRegeneron Pharma,https://www.investing.com/equities/regeneron-phar.Henry Schein,https://www.investing.com/equities/henry-scheinResMed,https://www.investing.com/equities/resmed-incBecton Dickinson,https://www.investing.com/equities/becton-dickinsnEquifax,https://www.investing.com/equities/equifax-incArconic,https://www.investing.com/equities/arconic-incCarMax,https://www.investing.com/equities/carmax-incCH Robinson,https://www.investing.com/equities/c-h-robinson-worldwide-incAO Smith,https://www.investing.com/equities/a.o-smith-corpStanley Black Decker,https://www.investing.com/equities/stanley-worksLam Research,https://www.investing.com/equities/lam-research-corpMohawk Industries,https://www.investing.com/equities/mohawk-industriesFlowserve,https://www.investing.com/equities/flowserve-corpParker-Hannifin,https://www.investing.com/equities/parkerhannifinRegency Centers,https://www.investing.com/equities/regency-centers-corpDarden Restaurants,https://www.investing.com/equities/dardem-restCopart,https://www.investing.com/equities/copart-incNorthrop Grumman,https://www.investing.com/equities/northrop-grummanCBRE A,https://www.investing.com/equities/cbreUnited Rentals,https://www.investing.com/equities/united-rentalsDentsply,https://www.investing.com/equities/dentsply-intl-inc-newHershey Co,https://www.investing.com/equities/hershey-coMoodys,https://www.investing.com/equities/moodys-corpDigital,https://www.investing.com/equities/digital-realty-trust-incAlliant Energy,https://www.investing.com/equities/alliant-energyAlliance Data Systems,https://www.investing.com/equities/alliance-data-systemsKansas City Southern,https://www.investing.com/equities/kansas-city-southern-incDaVita,https://www.investing.com/equities/davita-incFortune Brands,https://www.investing.com/equities/fortune-brands-home---securityRaymond James Financial,https://www.investing.com/equities/raymond-james-financial-incCincinnati Financial,https://www.investing.com/equities/cincinnati-finPerkinElmer,https://www.investing.com/equities/perkinelmerMcKesson,https://www.investing.com/equities/mckesson-corpCelanese,https://www.investing.com/equities/celaneseStryker,https://www.investing.com/equities/strykerRoper Technologies,https://www.investing.com/equities/roper-industriesRalph Lauren A,https://www.investing.com/equities/polo-ralph-laurEastman Chemical,https://www.investing.com/equities/eastman-chemNorfolk Southern,https://www.investing.com/equities/norfolk-southernJM Smucker,https://www.investing.com/equities/jm-smucker-coArthur J Gallagher,https://www.investing.com/equities/arthur-j.-gallagher---coO’Reilly Automotive,https://www.investing.com/equities/oreilly-automotiveFleetCor,https://www.investing.com/equities/fleetcor-techJB Hunt,https://www.investing.com/equities/j.b.-hunt-transpoVulcan Materials,https://www.investing.com/equities/vulcan-matrlsAmeriprise Financial,https://www.investing.com/equities/ameriprise-finclPackaging America,https://www.investing.com/equities/packaging-corpTextron,https://www.investing.com/equities/textron-incNorthern Trust,https://www.investing.com/equities/northern-trustMcCormick&Co,https://www.investing.com/equities/mccormick---coAlexandria RE,https://www.investing.com/equities/alexandria-real-estate-equitiesSynopsys,https://www.investing.com/equities/synopsys-incPublic Storage,https://www.investing.com/equities/public-stg-mldCitrix Systems,https://www.investing.com/equities/citrix-sys-incQuanta Services,https://www.investing.com/equities/quanta-servicesDover,https://www.investing.com/equities/dover-corpFirst Republic Bank,https://www.investing.com/equities/first-republic-bankCboe Global,https://www.investing.com/equities/cboe-holdings-incPentair,https://www.investing.com/equities/pentairBrown Forman,https://www.investing.com/equities/brown-forman-bMotorola,https://www.investing.com/equities/motorola-incMartin Marietta Materials,https://www.investing.com/equities/martin-marietta-materials-incPinnacle West,https://www.investing.com/equities/pinnacle-westBlackRock,https://www.investing.com/equities/blackrock,-inc.-cLaboratory America,https://www.investing.com/equities/laboratory-corp-of-amerF5 Networks,https://www.investing.com/equities/f5-networks-incBroadridge,https://www.investing.com/equities/broadridge-financial-solutionsPVH,https://www.investing.com/equities/pvhMid-America Apartment,https://www.investing.com/equities/mid-america-apartment-communitiesEssex Property,https://www.investing.com/equities/essex-property-trust-incRockwell Automation,https://www.investing.com/equities/rockwell-automatWillis Towers Watson,https://www.investing.com/equities/willis-group-holdings-plcJacobs Engineering,https://www.investing.com/equities/jacobs-engineerLamb Weston Holdings,https://www.investing.com/equities/lamb-weston-holdings-incVeriSign,https://www.investing.com/equities/verisign-incSBA Communications,https://www.investing.com/equities/sba-communications-corpUlta Beauty,https://www.investing.com/equities/ulta-salon-cosmetics---fragranceAvalonBay,https://www.investing.com/equities/avalonbay-commIntuitive Surgical,https://www.investing.com/equities/intuitive-surgical-incEcolab,https://www.investing.com/equities/ecolab-incKLA-Tencor,https://www.investing.com/equities/kla-tencor-corpM&T Bank,https://www.investing.com/equities/m-t-bank-corpIDEXX Labs,https://www.investing.com/equities/idexx-laboratorieGenuine Parts,https://www.investing.com/equities/genuine-parts-coGartner,https://www.investing.com/equities/gartnerExtra Space Storage,https://www.investing.com/equities/extra-space-storageNasdaq Inc,https://www.investing.com/equities/nasdaq-omx-groupArista Networks,https://www.investing.com/equities/arista-networksLoews,https://www.investing.com/equities/loews-corporationSherwin-Williams,https://www.investing.com/equities/sherwinwilliamsAvery Dennison,https://www.investing.com/equities/avery-dennisonWhirlpool,https://www.investing.com/equities/whirl-pool-corpSnap-On,https://www.investing.com/equities/snapon-incDTE Energy,https://www.investing.com/equities/dte-energyAmerican Water Works,https://www.investing.com/equities/american-water-works-incEquinix,https://www.investing.com/equities/equinix,-inc.MSCI,https://www.investing.com/equities/msci-incVerisk,https://www.investing.com/equities/verisk-analytics-incAlign,https://www.investing.com/equities/align-technologyGlobe Life,https://www.investing.com/equities/torchmark-corpAllegion PLC,https://www.investing.com/equities/allegion-publicVarian,https://www.investing.com/equities/varian-medicalCintas,https://www.investing.com/equities/cintas-corpSVB,https://www.investing.com/equities/svb-financial-groANSYS,https://www.investing.com/equities/ansysWW Grainger,https://www.investing.com/equities/w-w-grainger-incTransdigm,https://www.investing.com/equities/transdigm-group-incBooking,https://www.investing.com/equities/priceline.com-incHuntington Ingalls Industries,https://www.investing.com/equities/huntington-ingalls-industries-incABIOMED,https://www.investing.com/equities/abiomedUniversal Health Services,https://www.investing.com/equities/universal-health-servicesWaters,https://www.investing.com/equities/waters-corpEverest,https://www.investing.com/equities/everest-re-group-ltdChipotle Mexican Grill,https://www.investing.com/equities/chipotle-mexican-grill-incAutoZone,https://www.investing.com/equities/autozone-incCooper,https://www.investing.com/equities/cooper-companies-incMarketAxesss,https://www.investing.com/equities/marketaxess-holdiTeleflex,https://www.investing.com/equities/teleflex-incIPG Photonics,https://www.investing.com/equities/ipg-photonics-corp.Mettler-Toledo,https://www.investing.com/equities/mettler-toledo-international-incConcho Resources,https://www.investing.com/equities/concho-resources-incFord Motor,https://www.investing.com/equities/ford-motor-coTwitter Inc,https://www.investing.com/equities/twitter-incApple,https://www.investing.com/equities/apple-computer-incGeneral Motors,https://www.investing.com/equities/gen-motorsGeneral Electric,https://www.investing.com/equities/general-electricBank of America,https://www.investing.com/equities/bank-of-americaCisco,https://www.investing.com/equities/cisco-sys-incAMD,https://www.investing.com/equities/adv-micro-deviceAT&T,https://www.investing.com/equities/at-tFreeport-McMoran,https://www.investing.com/equities/freeport-mcmTesla,https://www.investing.com/equities/tesla-motorsTechnipFMC,https://www.investing.com/equities/fmc-technologies-incPfizer,https://www.investing.com/equities/pfizerAmerican Airlines,https://www.investing.com/equities/american-airlines-groupCarnival Corp,https://www.investing.com/equities/carnival-corp-exchExxon Mobil,https://www.investing.com/equities/exxon-mobilCoty Inc,https://www.investing.com/equities/coty-incCoca-Cola,https://www.investing.com/equities/coca-cola-coOccidental,https://www.investing.com/equities/occidental-petroMicrosoft,https://www.investing.com/equities/microsoft-corpWells Fargo&Co,https://www.investing.com/equities/wells-fargoMarathon Oil,https://www.investing.com/equities/marathon-oilLumen Technologies,https://www.investing.com/equities/centurylinkHewlett Packard,https://www.investing.com/equities/hewlett-packard-enterprise-coComcast,https://www.investing.com/equities/comcast-corp-newIntel,https://www.investing.com/equities/intel-corpVerizon,https://www.investing.com/equities/verizon-communicationsFacebook,https://www.investing.com/equities/facebook-incHanesbrands,https://www.investing.com/equities/hanesbrandsNorwegian Cruise Line,https://www.investing.com/equities/norwegian-cruise-line-holdings-ltdViacomCBS,https://www.investing.com/equities/viacom-cl-bMondelez,https://www.investing.com/equities/mondelez-international-incMGM,https://www.investing.com/equities/mgm-mirageBristol-Myers Squibb,https://www.investing.com/equities/bristol-myer-squiibUnder Armour A,https://www.investing.com/equities/under-armourCitigroup,https://www.investing.com/equities/citigroupUnder Armour C,https://www.investing.com/equities/under-armour-cNVIDIA,https://www.investing.com/equities/nvidia-corpQualcomm,https://www.investing.com/equities/qualcomm-incDelta Air Lines,https://www.investing.com/equities/delta-air-lines-newAmcor PLC,https://www.investing.com/equities/amcor-plcDevon Energy,https://www.investing.com/equities/devon-energySchlumberger,https://www.investing.com/equities/schlumberger-ltdBoeing,https://www.investing.com/equities/boeing-coMacy’s Inc,https://www.investing.com/equities/macysWalt Disney,https://www.investing.com/equities/disneyMerck&Co,https://www.investing.com/equities/merck---coKinder Morgan,https://www.investing.com/equities/kinder-morganConocoPhillips,https://www.investing.com/equities/conoco-phillipsDuPont De Nemours,https://www.investing.com/equities/du-pontJPMorgan,https://www.investing.com/equities/jp-morgan-chaseMicron,https://www.investing.com/equities/micron-techUnited Airlines Holdings,https://www.investing.com/equities/united-continentaHalliburton,https://www.investing.com/equities/halliburton-coWilliams,https://www.investing.com/equities/williams-cosOracle,https://www.investing.com/equities/oracle-corpPayPal Holdings Inc,https://www.investing.com/equities/paypal-holdings-incAkamai,https://www.investing.com/equities/akamai-technologies-incIPG,https://www.investing.com/equities/interpublic-grpBoston Scientific,https://www.investing.com/equities/boston-scien-cpChevron,https://www.investing.com/equities/chevronVisa A,https://www.investing.com/equities/visa-incProcter&Gamble,https://www.investing.com/equities/procter-gambleApache,https://www.investing.com/equities/apache-corpIFF,https://www.investing.com/equities/intl-flav---fragGilead,https://www.investing.com/equities/gilead-sciences-incRegions Financial,https://www.investing.com/equities/regions-finAbbVie,https://www.investing.com/equities/abbvie-incFox Corp A,https://www.investing.com/equities/fox-corpCharles Schwab,https://www.investing.com/equities/charles-schwabMacerich,https://www.investing.com/equities/macerich-coFiserv,https://www.investing.com/equities/fiserv-incViatris,https://www.investing.com/equities/mylan-incMetLife,https://www.investing.com/equities/metlife-incMorgan Stanley,https://www.investing.com/equities/morgan-stanleyKroger,https://www.investing.com/equities/kroger-coWalgreens Boots,https://www.investing.com/equities/walgreen-coHost Hotels Resorts,https://www.investing.com/equities/host-hotels---resThe AES,https://www.investing.com/equities/aes-corpHuntington Bancshares,https://www.investing.com/equities/huntgtn-bkshrPepsiCo,https://www.investing.com/equities/pepsicoSouthwest Airlines,https://www.investing.com/equities/sth-west-airlinesAltria,https://www.investing.com/equities/altria-groupHP Inc,https://www.investing.com/equities/hewlett-packBaker Hughes A,https://www.investing.com/equities/baker-hughesWalmart,https://www.investing.com/equities/wal-mart-storesKraft Heinz,https://www.investing.com/equities/kraft-foods-incKimco,https://www.investing.com/equities/kimco-realtyDISH Network,https://www.investing.com/equities/dish-networkWynn Resorts,https://www.investing.com/equities/wynn-resorts-ltdKeyCorp,https://www.investing.com/equities/keycorp-newJ&J,https://www.investing.com/equities/johnson-johnsonNextEra Energy,https://www.investing.com/equities/nextera-energy-incNortonLifeLock Inc,https://www.investing.com/equities/symantec-corpHealthpeak Properties,https://www.investing.com/equities/hcp-incTapestry,https://www.investing.com/equities/coachMosaic,https://www.investing.com/equities/mosaic-companyBaxter,https://www.investing.com/equities/baxter-intlSalesforce.com,https://www.investing.com/equities/salesforce-comCabot Oil&Gas,https://www.investing.com/equities/cabot-oil---gasPeople’s United,https://www.investing.com/equities/peoples-united-financialApartment Invest,https://www.investing.com/equities/apt-inv-manageU.S. Bancorp,https://www.investing.com/equities/us-bancorpGap,https://www.investing.com/equities/gap.incPhilip Morris,https://www.investing.com/equities/philip-morris-intlFirstEnergy,https://www.investing.com/equities/first-energyDiscovery Communications C,https://www.investing.com/equities/discovery-communications-(c)Applied Materials,https://www.investing.com/equities/applied-matls-incCentene,https://www.investing.com/equities/centeneFidelity National Info,https://www.investing.com/equities/fidelity-natl-inColgate-Palmolive,https://www.investing.com/equities/colgate-palmoEOG Resources,https://www.investing.com/equities/eog-resourcesIBM,https://www.investing.com/equities/ibmActivision Blizzard,https://www.investing.com/equities/activision-incMarathon Petroleum,https://www.investing.com/equities/marathon-petroleum-corp.CVS Health Corp,https://www.investing.com/equities/cvs-corpTJX,https://www.investing.com/equities/tjx-co-incNewmont Goldcorp,https://www.investing.com/equities/newmont-miningJuniper,https://www.investing.com/equities/juniper-networks-incWestern Union,https://www.investing.com/equities/western-unioneBay,https://www.investing.com/equities/ebay-incBank of NY Mellon,https://www.investing.com/equities/bk-of-nyNov,https://www.investing.com/equities/ntl-oilwell-varcDiscovery A,https://www.investing.com/equities/discovery-holding-coRoyal Caribbean Cruises,https://www.investing.com/equities/royal-caribbeanTruist Financial Corp,https://www.investing.com/equities/bb-t-corpStarbucks,https://www.investing.com/equities/starbucks-corpSimon Property,https://www.investing.com/equities/simon-prop-grpExelon,https://www.investing.com/equities/exelon-corpAbbott Labs,https://www.investing.com/equities/abbott-laboratoriesMastercard,https://www.investing.com/equities/mastercard-cl-aNike,https://www.investing.com/equities/nikeUnitedHealth,https://www.investing.com/equities/united-health-groupInvesco,https://www.investing.com/equities/invesco-ltdNetflix,https://www.investing.com/equities/netflix,-inc.Synchrony Financial,https://www.investing.com/equities/synchrony-finRaytheon Technologies,https://www.investing.com/equities/united-techCapital One Financial,https://www.investing.com/equities/capital-oneCorning,https://www.investing.com/equities/corning-incNews Corp A,https://www.investing.com/equities/news-corp.Aflac,https://www.investing.com/equities/aflac-incFifth Third,https://www.investing.com/equities/fifth-third-bkDominion Energy,https://www.investing.com/equities/dominion-resWestern Digital,https://www.investing.com/equities/western-digitalValero Energy,https://www.investing.com/equities/valero-energyMasco,https://www.investing.com/equities/masco-corpBerkshire Hathaway B,https://www.investing.com/equities/berkshire-hathawayDow,https://www.investing.com/equities/dow-chemicalExpedia,https://www.investing.com/equities/expediaRealty Income,https://www.investing.com/equities/realty-incomeTexas Instruments,https://www.investing.com/equities/texas-instruKellogg,https://www.investing.com/equities/kellogg-co.Medtronic,https://www.investing.com/equities/medtronicTyson Foods,https://www.investing.com/equities/tyson-foodsJohnson Controls,https://www.investing.com/equities/johnson-controlsIHS Markit Ltd,https://www.investing.com/equities/markit-ltdAIG,https://www.investing.com/equities/american-intl-groupCorteva,https://www.investing.com/equities/cortevaCSX,https://www.investing.com/equities/csx-corpProgressive,https://www.investing.com/equities/the-progressiveMcDonald’s,https://www.investing.com/equities/mcdonaldsAmazon.com,https://www.investing.com/equities/amazon-com-incPPL,https://www.investing.com/equities/ppl-corpOmnicom,https://www.investing.com/equities/omnicom-gp-incONEOK,https://www.investing.com/equities/oneokGoldman Sachs,https://www.investing.com/equities/goldman-sachs-groupWeyerhaeuser,https://www.investing.com/equities/weyerhaeuserSouthern,https://www.investing.com/equities/southern-coMolson Coors Brewing B,https://www.investing.com/equities/molson-coorsHormel Foods,https://www.investing.com/equities/hormel-foods-corpEli Lilly,https://www.investing.com/equities/eli-lilly-and-coAmgen,https://www.investing.com/equities/amgen-incJefferies Financial,https://www.investing.com/equities/leucadia-natlFranklin Resources,https://www.investing.com/equities/franklin-resUnited Parcel Service,https://www.investing.com/equities/united-parcelEaton,https://www.investing.com/equities/eatonT-Mobile US,https://www.investing.com/equities/metropcs-communicationsElectronic Arts,https://www.investing.com/equities/electronic-arts-incCitizens Financial Group Inc,https://www.investing.com/equities/citizens-financial-group-incCaterpillar,https://www.investing.com/equities/caterpillarBorgWarner,https://www.investing.com/equities/borgwarnerAmerican Electric Power,https://www.investing.com/equities/american-electricLennar,https://www.investing.com/equities/lennarAmerican Express,https://www.investing.com/equities/american-expressHilton Worldwide,https://www.investing.com/equities/hilton-worldwideLowe’s,https://www.investing.com/equities/lowes-companiesTarget,https://www.investing.com/equities/targetNordstrom,https://www.investing.com/equities/nordstrom-incL Brands,https://www.investing.com/equities/limited-brandsGeneral Mills,https://www.investing.com/equities/general-millsPrudential Financial,https://www.investing.com/equities/prudential-finCME Group,https://www.investing.com/equities/cme-group-inc.Edwards Lifesciences,https://www.investing.com/equities/edward-lifescienceFortive,https://www.investing.com/equities/fortive-corpConAgra Foods,https://www.investing.com/equities/conagra-foodsPulteGroup,https://www.investing.com/equities/pulte-homes-incPioneer Natural,https://www.investing.com/equities/pioneer-natural-resourcesWelltower,https://www.investing.com/equities/health-care-reitTake-Two,https://www.investing.com/equities/take-two-interactiveCenterPoint Energy,https://www.investing.com/equities/centerpointEmerson,https://www.investing.com/equities/emerson-elecNewell Brands,https://www.investing.com/equities/newell-rubberICE,https://www.investing.com/equities/intercontintlexIron Mountain,https://www.investing.com/equities/iron-mountain-incHess,https://www.investing.com/equities/hess-corpInternational Paper,https://www.investing.com/equities/intl-paper-coHome Depot,https://www.investing.com/equities/home-depotHelmerich Payne,https://www.investing.com/equities/helmerich---payneDuke Energy,https://www.investing.com/equities/duke-energyFMC,https://www.investing.com/equities/fmc-corpHarley-Davidson,https://www.investing.com/equities/harley-davidsonVornado,https://www.investing.com/equities/vornado-realtyCerner,https://www.investing.com/equities/cerner-corporatioKohls Corp,https://www.investing.com/equities/kohls-corpIncyte,https://www.investing.com/equities/incyte-corpMaxim,https://www.investing.com/equities/maxim-integratedDR Horton,https://www.investing.com/equities/d.r.-horton-incNielsen,https://www.investing.com/equities/nielsen-holdings-nvNews Corp,https://www.investing.com/equities/news-corporationPhillips 66,https://www.investing.com/equities/phillips-66-ltdXilinx,https://www.investing.com/equities/xilinx-incDXC Technology,https://www.investing.com/equities/comp-scienceDiamondback,https://www.investing.com/equities/diamondback-energy-incFastenal,https://www.investing.com/equities/fastenal-coNucor,https://www.investing.com/equities/nucorEquity Residential,https://www.investing.com/equities/eq-residentCostco,https://www.investing.com/equities/costco-whsl-corp-newDollar General,https://www.investing.com/equities/dollar-general-corpVentas,https://www.investing.com/equities/ventas-incNiSource,https://www.investing.com/equities/ni-source-incCapri Holdings,https://www.investing.com/equities/michael-kors-holdingsClorox,https://www.investing.com/equities/clorox-coEdison,https://www.investing.com/equities/edison-intlSeagate,https://www.investing.com/equities/seagate-technologyQorvo Inc,https://www.investing.com/equities/qorvo-incCognizant A,https://www.investing.com/equities/cognizant-technology-solutioConstellation Brands A,https://www.investing.com/equities/constellation-aIqvia,https://www.investing.com/equities/quintis-trl-hlgsWestRock Co,https://www.investing.com/equities/westrock-coLyondellBasell Industries,https://www.investing.com/equities/lyondellbasell-industriesSkyworks,https://www.investing.com/equities/skyworks-solutions-incPerrigo,https://www.investing.com/equities/perrigo-coState Street,https://www.investing.com/equities/state-streetYum! Brands,https://www.investing.com/equities/yum!-brands-incArcher-Daniels-Midland,https://www.investing.com/equities/archer-daniels-midH&R Block,https://www.investing.com/equities/h---r-block-incAptiv,https://www.investing.com/equities/delphi-automotiveFedEx,https://www.investing.com/equities/fedex-corpCF Industries,https://www.investing.com/equities/cf-industries3M,https://www.investing.com/equities/3m-coXerox,https://www.investing.com/equities/xerox-corpHoneywell,https://www.investing.com/equities/honeywell-intlMicrochip,https://www.investing.com/equities/microchip-technology-incAon,https://www.investing.com/equities/aon-corpGlobal Payments,https://www.investing.com/equities/global-paymentsVertex,https://www.investing.com/equities/vertex-pharmHologic,https://www.investing.com/equities/hologic-incNetApp,https://www.investing.com/equities/network-appliance-incAllstate,https://www.investing.com/equities/allstate-corporationTripAdvisor,https://www.investing.com/equities/tripadvisorFox Corp B,https://www.investing.com/equities/fox-corp-bSealed Air,https://www.investing.com/equities/sealed-airCardinal Health,https://www.investing.com/equities/cardinal-healthTE Connectivity,https://www.investing.com/equities/te-connectivityS&P Global,https://www.investing.com/equities/mcgraw-hillAdobe,https://www.investing.com/equities/adobe-sys-incAnalog Devices,https://www.investing.com/equities/analog-devicesUnion Pacific,https://www.investing.com/equities/union-pacificUnited Dominion,https://www.investing.com/equities/udrZoetis Inc,https://www.investing.com/equities/zoetis-incWaste Management,https://www.investing.com/equities/waste-managemntAmeren,https://www.investing.com/equities/ameren-corpDollar Tree,https://www.investing.com/equities/dollar-tree-incLockheed Martin,https://www.investing.com/equities/lockheed-martinCampbell Soup,https://www.investing.com/equities/campbell-soupLincoln National,https://www.investing.com/equities/lincoln-natlMarriott Int,https://www.investing.com/equities/marriott-intlUnum,https://www.investing.com/equities/unum-groupXcel Energy,https://www.investing.com/equities/xcel-energyThermo Fisher Scientific,https://www.investing.com/equities/thermo-fisher-scZimmer Biomet,https://www.investing.com/equities/zimmer-hldgsZions,https://www.investing.com/equities/zions-bancorpPrologis,https://www.investing.com/equities/prologisEstee Lauder,https://www.investing.com/equities/estee-lauderMonster Beverage,https://www.investing.com/equities/monster-beveragePublic Service Enterprise,https://www.investing.com/equities/publ-svc-enterADP,https://www.investing.com/equities/auto-data-processHumana,https://www.investing.com/equities/humana-incAlexion,https://www.investing.com/equities/alexion-pharmaceuticals,-inc.Linde PLC,https://www.investing.com/equities/linde-plc?cid=942017Nektar,https://www.investing.com/equities/nektar-therapeuticsPNC Financial,https://www.investing.com/equities/pnc-fin-servKimberly-Clark,https://www.investing.com/equities/kimberly-clarkCMS Energy,https://www.investing.com/equities/cms-energy-corpAmerican Tower,https://www.investing.com/equities/amer-tower-corpIngersoll Rand,https://www.investing.com/equities/ingersoll-randPACCAR,https://www.investing.com/equities/paccar-incCigna,https://www.investing.com/equities/cigna-corpEversource Energy,https://www.investing.com/equities/northeast-utilitiesTravelers,https://www.investing.com/equities/the-travelers-coAir Products,https://www.investing.com/equities/air-prods---chemSysco,https://www.investing.com/equities/sysco-corpBroadcom,https://www.investing.com/equities/avago-technologiesChubb,https://www.investing.com/equities/chubb-corpHasbro,https://www.investing.com/equities/hasbro-incCrown Castle,https://www.investing.com/equities/crown-castle-intHartford,https://www.investing.com/equities/hartford-finlAlbemarle,https://www.investing.com/equities/albemarleAccenture,https://www.investing.com/equities/accenture-ltdDuke,https://www.investing.com/equities/duke-realty-corpAlaska Air,https://www.investing.com/equities/alaska-airHollyFrontier,https://www.investing.com/equities/hollyfrontier-coConsolidated Edison,https://www.investing.com/equities/cocnsol-edisonIllinois Tool Works,https://www.investing.com/equities/illinois-tool-wk-rDanaher,https://www.investing.com/equities/danaher-corpFLIR Systems,https://www.investing.com/equities/flir-systemsT Rowe,https://www.investing.com/equities/t-rowe-price-gpNRG,https://www.investing.com/equities/nrg-energy-incAmerisourceBergen,https://www.investing.com/equities/amerisourcebergnDiscover,https://www.investing.com/equities/discover-financlHCA,https://www.investing.com/equities/hca-holdings-incBiogen,https://www.investing.com/equities/biogen-idec-incGeneral Dynamics,https://www.investing.com/equities/general-dynamRollins,https://www.investing.com/equities/rollins-incRepublic Services,https://www.investing.com/equities/republic-services-incPPG Industries,https://www.investing.com/equities/ppg-industriesL3Harris Technologies,https://www.investing.com/equities/harris-corporationExpeditors Washington,https://www.investing.com/equities/expeditors-intl-wash-incAssurant,https://www.investing.com/equities/assurantAlphabet A,https://www.investing.com/equities/google-incLeggett&Platt,https://www.investing.com/equities/leggett---plattBest Buy,https://www.investing.com/equities/best-buyMarsh McLennan,https://www.investing.com/equities/marsh---mclennanFederal Realty,https://www.investing.com/equities/federal-realty-investment-trustEntergy,https://www.investing.com/equities/entergy-corpVF,https://www.investing.com/equities/vf-corpTractor Supply,https://www.investing.com/equities/tractor-supply-companyChurch&Dwight,https://www.investing.com/equities/church---dwightRoss Stores,https://www.investing.com/equities/ross-stores-incAutodesk,https://www.investing.com/equities/autodesk-incFoot Locker,https://www.investing.com/equities/foot-lockerPrincipal Financial,https://www.investing.com/equities/principal-finQuest Diagnostics,https://www.investing.com/equities/quest-diagWEC Energy,https://www.investing.com/equities/wisconsin-energy-corpIntuit,https://www.investing.com/equities/intuitFortinet,https://www.investing.com/equities/fortinetAtmos Energy,https://www.investing.com/equities/atmos-energy-corpAlphabet C,https://www.investing.com/equities/google-inc-cCadence Design,https://www.investing.com/equities/cadence-design-system-incSempra Energy,https://www.investing.com/equities/sempra-energyBoston Properties,https://www.investing.com/equities/boston-pptyAnthem,https://www.investing.com/equities/wellpoint-incAgilent Technologies,https://www.investing.com/equities/agilent-techJack Henry&Associates,https://www.investing.com/equities/jack-henry---assoAffiliated Managers,https://www.investing.com/equities/affiliated-managers-group-incLKQ,https://www.investing.com/equities/lkqBall,https://www.investing.com/equities/ball-corpDeere&Company,https://www.investing.com/equities/deere---coComerica,https://www.investing.com/equities/comerica-incCimarex Energy,https://www.investing.com/equities/cimarex-energyWestinghouse Air Brake,https://www.investing.com/equities/westinghouse-air-brake-techCharter Communications,https://www.investing.com/equities/charter-communicationsRobert Half,https://www.investing.com/equities/robert-half-intlIllumina,https://www.investing.com/equities/illumina,-inc.Xylem,https://www.investing.com/equities/xylemKeysight Technologies,https://www.investing.com/equities/keysight-technologiesEvergy,https://www.investing.com/equities/westar-energyGarmin,https://www.investing.com/equities/garmin-ltdSL Green,https://www.investing.com/equities/sl-green-realtyAmetek,https://www.investing.com/equities/ametek-incCummins,https://www.investing.com/equities/cummins-incPaychex,https://www.investing.com/equities/paychex-incAdvance Auto Parts,https://www.investing.com/equities/advance-auto-partsAmphenol,https://www.investing.com/equities/amphenol-corpRegeneron Pharma,https://www.investing.com/equities/regeneron-phar.Henry Schein,https://www.investing.com/equities/henry-scheinResMed,https://www.investing.com/equities/resmed-incBecton Dickinson,https://www.investing.com/equities/becton-dickinsnEquifax,https://www.investing.com/equities/equifax-incArconic,https://www.investing.com/equities/arconic-incCarMax,https://www.investing.com/equities/carmax-incCH Robinson,https://www.investing.com/equities/c-h-robinson-worldwide-incAO Smith,https://www.investing.com/equities/a.o-smith-corpStanley Black Decker,https://www.investing.com/equities/stanley-worksLam Research,https://www.investing.com/equities/lam-research-corpMohawk Industries,https://www.investing.com/equities/mohawk-industriesFlowserve,https://www.investing.com/equities/flowserve-corpParker-Hannifin,https://www.investing.com/equities/parkerhannifinRegency Centers,https://www.investing.com/equities/regency-centers-corpDarden Restaurants,https://www.investing.com/equities/dardem-restCopart,https://www.investing.com/equities/copart-incNorthrop Grumman,https://www.investing.com/equities/northrop-grummanCBRE A,https://www.investing.com/equities/cbreUnited Rentals,https://www.investing.com/equities/united-rentalsDentsply,https://www.investing.com/equities/dentsply-intl-inc-newHershey Co,https://www.investing.com/equities/hershey-coMoodys,https://www.investing.com/equities/moodys-corpDigital,https://www.investing.com/equities/digital-realty-trust-incAlliant Energy,https://www.investing.com/equities/alliant-energyAlliance Data Systems,https://www.investing.com/equities/alliance-data-systemsKansas City Southern,https://www.investing.com/equities/kansas-city-southern-incDaVita,https://www.investing.com/equities/davita-incFortune Brands,https://www.investing.com/equities/fortune-brands-home---securityRaymond James Financial,https://www.investing.com/equities/raymond-james-financial-incCincinnati Financial,https://www.investing.com/equities/cincinnati-finPerkinElmer,https://www.investing.com/equities/perkinelmerMcKesson,https://www.investing.com/equities/mckesson-corpCelanese,https://www.investing.com/equities/celaneseStryker,https://www.investing.com/equities/strykerRoper Technologies,https://www.investing.com/equities/roper-industriesRalph Lauren A,https://www.investing.com/equities/polo-ralph-laurEastman Chemical,https://www.investing.com/equities/eastman-chemNorfolk Southern,https://www.investing.com/equities/norfolk-southernJM Smucker,https://www.investing.com/equities/jm-smucker-coArthur J Gallagher,https://www.investing.com/equities/arthur-j.-gallagher---coO’Reilly Automotive,https://www.investing.com/equities/oreilly-automotiveFleetCor,https://www.investing.com/equities/fleetcor-techJB Hunt,https://www.investing.com/equities/j.b.-hunt-transpoVulcan Materials,https://www.investing.com/equities/vulcan-matrlsAmeriprise Financial,https://www.investing.com/equities/ameriprise-finclPackaging America,https://www.investing.com/equities/packaging-corpTextron,https://www.investing.com/equities/textron-incNorthern Trust,https://www.investing.com/equities/northern-trustMcCormick&Co,https://www.investing.com/equities/mccormick---coAlexandria RE,https://www.investing.com/equities/alexandria-real-estate-equitiesSynopsys,https://www.investing.com/equities/synopsys-incPublic Storage,https://www.investing.com/equities/public-stg-mldCitrix Systems,https://www.investing.com/equities/citrix-sys-incQuanta Services,https://www.investing.com/equities/quanta-servicesDover,https://www.investing.com/equities/dover-corpFirst Republic Bank,https://www.investing.com/equities/first-republic-bankCboe Global,https://www.investing.com/equities/cboe-holdings-incPentair,https://www.investing.com/equities/pentairBrown Forman,https://www.investing.com/equities/brown-forman-bMotorola,https://www.investing.com/equities/motorola-incMartin Marietta Materials,https://www.investing.com/equities/martin-marietta-materials-incPinnacle West,https://www.investing.com/equities/pinnacle-westBlackRock,https://www.investing.com/equities/blackrock,-inc.-cLaboratory America,https://www.investing.com/equities/laboratory-corp-of-amerF5 Networks,https://www.investing.com/equities/f5-networks-incBroadridge,https://www.investing.com/equities/broadridge-financial-solutionsPVH,https://www.investing.com/equities/pvhMid-America Apartment,https://www.investing.com/equities/mid-america-apartment-communities
+Ford Motor,https://www.investing.com/equities/ford-motor-co
+Twitter Inc,https://www.investing.com/equities/twitter-inc
+Apple,https://www.investing.com/equities/apple-computer-inc
+General Motors,https://www.investing.com/equities/gen-motors
+General Electric,https://www.investing.com/equities/general-electric
+Bank of America,https://www.investing.com/equities/bank-of-america
+Cisco,https://www.investing.com/equities/cisco-sys-inc
+AMD,https://www.investing.com/equities/adv-micro-device
+AT&T,https://www.investing.com/equities/at-t
+Freeport-McMoran,https://www.investing.com/equities/freeport-mcm
+Tesla,https://www.investing.com/equities/tesla-motors
+TechnipFMC,https://www.investing.com/equities/fmc-technologies-inc
+Pfizer,https://www.investing.com/equities/pfizer
+American Airlines,https://www.investing.com/equities/american-airlines-group
+Carnival Corp,https://www.investing.com/equities/carnival-corp-exch
+Exxon Mobil,https://www.investing.com/equities/exxon-mobil
+Coty Inc,https://www.investing.com/equities/coty-inc
+Coca-Cola,https://www.investing.com/equities/coca-cola-co
+Occidental,https://www.investing.com/equities/occidental-petro
+Microsoft,https://www.investing.com/equities/microsoft-corp
+Wells Fargo&Co,https://www.investing.com/equities/wells-fargo
+Marathon Oil,https://www.investing.com/equities/marathon-oil
+Lumen Technologies,https://www.investing.com/equities/centurylink
+Hewlett Packard,https://www.investing.com/equities/hewlett-packard-enterprise-co
+Comcast,https://www.investing.com/equities/comcast-corp-new
+Intel,https://www.investing.com/equities/intel-corp
+Verizon,https://www.investing.com/equities/verizon-communications
+Facebook,https://www.investing.com/equities/facebook-inc
+Hanesbrands,https://www.investing.com/equities/hanesbrands
+Norwegian Cruise Line,https://www.investing.com/equities/norwegian-cruise-line-holdings-ltd
+ViacomCBS,https://www.investing.com/equities/viacom-cl-b
+Mondelez,https://www.investing.com/equities/mondelez-international-inc
+MGM,https://www.investing.com/equities/mgm-mirage
+Bristol-Myers Squibb,https://www.investing.com/equities/bristol-myer-squiib
+Under Armour A,https://www.investing.com/equities/under-armour
+Citigroup,https://www.investing.com/equities/citigroup
+Under Armour C,https://www.investing.com/equities/under-armour-c
+NVIDIA,https://www.investing.com/equities/nvidia-corp
+Qualcomm,https://www.investing.com/equities/qualcomm-inc
+Delta Air Lines,https://www.investing.com/equities/delta-air-lines-new
+Amcor PLC,https://www.investing.com/equities/amcor-plc
+Devon Energy,https://www.investing.com/equities/devon-energy
+Schlumberger,https://www.investing.com/equities/schlumberger-ltd
+Boeing,https://www.investing.com/equities/boeing-co
+Macy’s Inc,https://www.investing.com/equities/macys
+Walt Disney,https://www.investing.com/equities/disney
+Merck&Co,https://www.investing.com/equities/merck---co
+Kinder Morgan,https://www.investing.com/equities/kinder-morgan
+ConocoPhillips,https://www.investing.com/equities/conoco-phillips
+DuPont De Nemours,https://www.investing.com/equities/du-pont
+JPMorgan,https://www.investing.com/equities/jp-morgan-chase
+Micron,https://www.investing.com/equities/micron-tech
+United Airlines Holdings,https://www.investing.com/equities/united-continenta
+Halliburton,https://www.investing.com/equities/halliburton-co
+Williams,https://www.investing.com/equities/williams-cos
+Oracle,https://www.investing.com/equities/oracle-corp
+PayPal Holdings Inc,https://www.investing.com/equities/paypal-holdings-inc
+Akamai,https://www.investing.com/equities/akamai-technologies-inc
+IPG,https://www.investing.com/equities/interpublic-grp
+Boston Scientific,https://www.investing.com/equities/boston-scien-cp
+Chevron,https://www.investing.com/equities/chevron
+Visa A,https://www.investing.com/equities/visa-inc
+Procter&Gamble,https://www.investing.com/equities/procter-gamble
+Apache,https://www.investing.com/equities/apache-corp
+IFF,https://www.investing.com/equities/intl-flav---frag
+Gilead,https://www.investing.com/equities/gilead-sciences-inc
+Regions Financial,https://www.investing.com/equities/regions-fin
+AbbVie,https://www.investing.com/equities/abbvie-inc
+Fox Corp A,https://www.investing.com/equities/fox-corp
+Charles Schwab,https://www.investing.com/equities/charles-schwab
+Macerich,https://www.investing.com/equities/macerich-co
+Fiserv,https://www.investing.com/equities/fiserv-inc
+Viatris,https://www.investing.com/equities/mylan-inc
+MetLife,https://www.investing.com/equities/metlife-inc
+Morgan Stanley,https://www.investing.com/equities/morgan-stanley
+Kroger,https://www.investing.com/equities/kroger-co
+Walgreens Boots,https://www.investing.com/equities/walgreen-co
+Host Hotels Resorts,https://www.investing.com/equities/host-hotels---res
+The AES,https://www.investing.com/equities/aes-corp
+Huntington Bancshares,https://www.investing.com/equities/huntgtn-bkshr
+PepsiCo,https://www.investing.com/equities/pepsico
+Southwest Airlines,https://www.investing.com/equities/sth-west-airlines
+Altria,https://www.investing.com/equities/altria-group
+HP Inc,https://www.investing.com/equities/hewlett-pack
+Baker Hughes A,https://www.investing.com/equities/baker-hughes
+Walmart,https://www.investing.com/equities/wal-mart-stores
+Kraft Heinz,https://www.investing.com/equities/kraft-foods-inc
+Kimco,https://www.investing.com/equities/kimco-realty
+DISH Network,https://www.investing.com/equities/dish-network
+Wynn Resorts,https://www.investing.com/equities/wynn-resorts-ltd
+KeyCorp,https://www.investing.com/equities/keycorp-new
+J&J,https://www.investing.com/equities/johnson-johnson
+NextEra Energy,https://www.investing.com/equities/nextera-energy-inc
+NortonLifeLock Inc,https://www.investing.com/equities/symantec-corp
+Healthpeak Properties,https://www.investing.com/equities/hcp-inc
+Tapestry,https://www.investing.com/equities/coach
+Mosaic,https://www.investing.com/equities/mosaic-company
+Baxter,https://www.investing.com/equities/baxter-intl
+Salesforce.com,https://www.investing.com/equities/salesforce-com
+Cabot Oil&Gas,https://www.investing.com/equities/cabot-oil---gas
+People’s United,https://www.investing.com/equities/peoples-united-financial
+Apartment Invest,https://www.investing.com/equities/apt-inv-manage
+U.S. Bancorp,https://www.investing.com/equities/us-bancorp
+Gap,https://www.investing.com/equities/gap.inc
+Philip Morris,https://www.investing.com/equities/philip-morris-intl
+FirstEnergy,https://www.investing.com/equities/first-energy
+Discovery Communications C,https://www.investing.com/equities/discovery-communications-(c)
+Applied Materials,https://www.investing.com/equities/applied-matls-inc
+Centene,https://www.investing.com/equities/centene
+Fidelity National Info,https://www.investing.com/equities/fidelity-natl-in
+Colgate-Palmolive,https://www.investing.com/equities/colgate-palmo
+EOG Resources,https://www.investing.com/equities/eog-resources
+IBM,https://www.investing.com/equities/ibm
+Activision Blizzard,https://www.investing.com/equities/activision-inc
+Marathon Petroleum,https://www.investing.com/equities/marathon-petroleum-corp.
+CVS Health Corp,https://www.investing.com/equities/cvs-corp
+TJX,https://www.investing.com/equities/tjx-co-inc
+Newmont Goldcorp,https://www.investing.com/equities/newmont-mining
+Juniper,https://www.investing.com/equities/juniper-networks-inc
+Western Union,https://www.investing.com/equities/western-union
+eBay,https://www.investing.com/equities/ebay-inc
+Bank of NY Mellon,https://www.investing.com/equities/bk-of-ny
+Nov,https://www.investing.com/equities/ntl-oilwell-varc
+Discovery A,https://www.investing.com/equities/discovery-holding-co
+Royal Caribbean Cruises,https://www.investing.com/equities/royal-caribbean
+Truist Financial Corp,https://www.investing.com/equities/bb-t-corp
+Starbucks,https://www.investing.com/equities/starbucks-corp
+Simon Property,https://www.investing.com/equities/simon-prop-grp
+Exelon,https://www.investing.com/equities/exelon-corp
+Abbott Labs,https://www.investing.com/equities/abbott-laboratories
+Mastercard,https://www.investing.com/equities/mastercard-cl-a
+Nike,https://www.investing.com/equities/nike
+UnitedHealth,https://www.investing.com/equities/united-health-group
+Invesco,https://www.investing.com/equities/invesco-ltd
+Netflix,https://www.investing.com/equities/netflix,-inc.
+Synchrony Financial,https://www.investing.com/equities/synchrony-fin
+Raytheon Technologies,https://www.investing.com/equities/united-tech
+Capital One Financial,https://www.investing.com/equities/capital-one
+Corning,https://www.investing.com/equities/corning-inc
+News Corp A,https://www.investing.com/equities/news-corp.
+Aflac,https://www.investing.com/equities/aflac-inc
+Fifth Third,https://www.investing.com/equities/fifth-third-bk
+Dominion Energy,https://www.investing.com/equities/dominion-res
+Western Digital,https://www.investing.com/equities/western-digital
+Valero Energy,https://www.investing.com/equities/valero-energy
+Masco,https://www.investing.com/equities/masco-corp
+Berkshire Hathaway B,https://www.investing.com/equities/berkshire-hathaway
+Dow,https://www.investing.com/equities/dow-chemical
+Expedia,https://www.investing.com/equities/expedia
+Realty Income,https://www.investing.com/equities/realty-income
+Texas Instruments,https://www.investing.com/equities/texas-instru
+Kellogg,https://www.investing.com/equities/kellogg-co.
+Medtronic,https://www.investing.com/equities/medtronic
+Tyson Foods,https://www.investing.com/equities/tyson-foods
+Johnson Controls,https://www.investing.com/equities/johnson-controls
+IHS Markit Ltd,https://www.investing.com/equities/markit-ltd
+AIG,https://www.investing.com/equities/american-intl-group
+Corteva,https://www.investing.com/equities/corteva
+CSX,https://www.investing.com/equities/csx-corp
+Progressive,https://www.investing.com/equities/the-progressive
+McDonald’s,https://www.investing.com/equities/mcdonalds
+Amazon.com,https://www.investing.com/equities/amazon-com-inc
+PPL,https://www.investing.com/equities/ppl-corp
+Omnicom,https://www.investing.com/equities/omnicom-gp-inc
+ONEOK,https://www.investing.com/equities/oneok
+Goldman Sachs,https://www.investing.com/equities/goldman-sachs-group
+Weyerhaeuser,https://www.investing.com/equities/weyerhaeuser
+Southern,https://www.investing.com/equities/southern-co
+Molson Coors Brewing B,https://www.investing.com/equities/molson-coors
+Hormel Foods,https://www.investing.com/equities/hormel-foods-corp
+Eli Lilly,https://www.investing.com/equities/eli-lilly-and-co
+Amgen,https://www.investing.com/equities/amgen-inc
+Jefferies Financial,https://www.investing.com/equities/leucadia-natl
+Franklin Resources,https://www.investing.com/equities/franklin-res
+United Parcel Service,https://www.investing.com/equities/united-parcel
+Eaton,https://www.investing.com/equities/eaton
+T-Mobile US,https://www.investing.com/equities/metropcs-communications
+Electronic Arts,https://www.investing.com/equities/electronic-arts-inc
+Citizens Financial Group Inc,https://www.investing.com/equities/citizens-financial-group-inc
+Caterpillar,https://www.investing.com/equities/caterpillar
+BorgWarner,https://www.investing.com/equities/borgwarner
+American Electric Power,https://www.investing.com/equities/american-electric
+Lennar,https://www.investing.com/equities/lennar
+American Express,https://www.investing.com/equities/american-express
+Hilton Worldwide,https://www.investing.com/equities/hilton-worldwide
+Lowe’s,https://www.investing.com/equities/lowes-companies
+Target,https://www.investing.com/equities/target
+Nordstrom,https://www.investing.com/equities/nordstrom-inc
+L Brands,https://www.investing.com/equities/limited-brands
+General Mills,https://www.investing.com/equities/general-mills
+Prudential Financial,https://www.investing.com/equities/prudential-fin
+CME Group,https://www.investing.com/equities/cme-group-inc.
+Edwards Lifesciences,https://www.investing.com/equities/edward-lifescience
+Fortive,https://www.investing.com/equities/fortive-corp
+ConAgra Foods,https://www.investing.com/equities/conagra-foods
+PulteGroup,https://www.investing.com/equities/pulte-homes-inc
+Pioneer Natural,https://www.investing.com/equities/pioneer-natural-resources
+Welltower,https://www.investing.com/equities/health-care-reit
+Take-Two,https://www.investing.com/equities/take-two-interactive
+CenterPoint Energy,https://www.investing.com/equities/centerpoint
+Emerson,https://www.investing.com/equities/emerson-elec
+Newell Brands,https://www.investing.com/equities/newell-rubber
+ICE,https://www.investing.com/equities/intercontintlex
+Iron Mountain,https://www.investing.com/equities/iron-mountain-inc
+Hess,https://www.investing.com/equities/hess-corp
+International Paper,https://www.investing.com/equities/intl-paper-co
+Home Depot,https://www.investing.com/equities/home-depot
+Helmerich Payne,https://www.investing.com/equities/helmerich---payne
+Duke Energy,https://www.investing.com/equities/duke-energy
+FMC,https://www.investing.com/equities/fmc-corp
+Harley-Davidson,https://www.investing.com/equities/harley-davidson
+Vornado,https://www.investing.com/equities/vornado-realty
+Cerner,https://www.investing.com/equities/cerner-corporatio
+Kohls Corp,https://www.investing.com/equities/kohls-corp
+Incyte,https://www.investing.com/equities/incyte-corp
+Maxim,https://www.investing.com/equities/maxim-integrated
+DR Horton,https://www.investing.com/equities/d.r.-horton-inc
+Nielsen,https://www.investing.com/equities/nielsen-holdings-nv
+News Corp,https://www.investing.com/equities/news-corporation
+Phillips 66,https://www.investing.com/equities/phillips-66-ltd
+Xilinx,https://www.investing.com/equities/xilinx-inc
+DXC Technology,https://www.investing.com/equities/comp-science
+Diamondback,https://www.investing.com/equities/diamondback-energy-inc
+Fastenal,https://www.investing.com/equities/fastenal-co
+Nucor,https://www.investing.com/equities/nucor
+Equity Residential,https://www.investing.com/equities/eq-resident
+Costco,https://www.investing.com/equities/costco-whsl-corp-new
+Dollar General,https://www.investing.com/equities/dollar-general-corp
+Ventas,https://www.investing.com/equities/ventas-inc
+NiSource,https://www.investing.com/equities/ni-source-inc
+Capri Holdings,https://www.investing.com/equities/michael-kors-holdings
+Clorox,https://www.investing.com/equities/clorox-co
+Edison,https://www.investing.com/equities/edison-intl
+Seagate,https://www.investing.com/equities/seagate-technology
+Qorvo Inc,https://www.investing.com/equities/qorvo-inc
+Cognizant A,https://www.investing.com/equities/cognizant-technology-solutio
+Constellation Brands A,https://www.investing.com/equities/constellation-a
+Iqvia,https://www.investing.com/equities/quintis-trl-hlgs
+WestRock Co,https://www.investing.com/equities/westrock-co
+LyondellBasell Industries,https://www.investing.com/equities/lyondellbasell-industries
+Skyworks,https://www.investing.com/equities/skyworks-solutions-inc
+Perrigo,https://www.investing.com/equities/perrigo-co
+State Street,https://www.investing.com/equities/state-street
+Yum! Brands,https://www.investing.com/equities/yum!-brands-inc
+Archer-Daniels-Midland,https://www.investing.com/equities/archer-daniels-mid
+H&R Block,https://www.investing.com/equities/h---r-block-inc
+Aptiv,https://www.investing.com/equities/delphi-automotive
+FedEx,https://www.investing.com/equities/fedex-corp
+CF Industries,https://www.investing.com/equities/cf-industries
+3M,https://www.investing.com/equities/3m-co
+Xerox,https://www.investing.com/equities/xerox-corp
+Honeywell,https://www.investing.com/equities/honeywell-intl
+Microchip,https://www.investing.com/equities/microchip-technology-inc
+Aon,https://www.investing.com/equities/aon-corp
+Global Payments,https://www.investing.com/equities/global-payments
+Vertex,https://www.investing.com/equities/vertex-pharm
+Hologic,https://www.investing.com/equities/hologic-inc
+NetApp,https://www.investing.com/equities/network-appliance-inc
+Allstate,https://www.investing.com/equities/allstate-corporation
+TripAdvisor,https://www.investing.com/equities/tripadvisor
+Fox Corp B,https://www.investing.com/equities/fox-corp-b
+Sealed Air,https://www.investing.com/equities/sealed-air
+Cardinal Health,https://www.investing.com/equities/cardinal-health
+TE Connectivity,https://www.investing.com/equities/te-connectivity
+S&P Global,https://www.investing.com/equities/mcgraw-hill
+Adobe,https://www.investing.com/equities/adobe-sys-inc
+Analog Devices,https://www.investing.com/equities/analog-devices
+Union Pacific,https://www.investing.com/equities/union-pacific
+United Dominion,https://www.investing.com/equities/udr
+Zoetis Inc,https://www.investing.com/equities/zoetis-inc
+Waste Management,https://www.investing.com/equities/waste-managemnt
+Ameren,https://www.investing.com/equities/ameren-corp
+Dollar Tree,https://www.investing.com/equities/dollar-tree-inc
+Lockheed Martin,https://www.investing.com/equities/lockheed-martin
+Campbell Soup,https://www.investing.com/equities/campbell-soup
+Lincoln National,https://www.investing.com/equities/lincoln-natl
+Marriott Int,https://www.investing.com/equities/marriott-intl
+Unum,https://www.investing.com/equities/unum-group
+Xcel Energy,https://www.investing.com/equities/xcel-energy
+Thermo Fisher Scientific,https://www.investing.com/equities/thermo-fisher-sc
+Zimmer Biomet,https://www.investing.com/equities/zimmer-hldgs
+Zions,https://www.investing.com/equities/zions-bancorp
+Prologis,https://www.investing.com/equities/prologis
+Estee Lauder,https://www.investing.com/equities/estee-lauder
+Monster Beverage,https://www.investing.com/equities/monster-beverage
+Public Service Enterprise,https://www.investing.com/equities/publ-svc-enter
+ADP,https://www.investing.com/equities/auto-data-process
+Humana,https://www.investing.com/equities/humana-inc
+Alexion,https://www.investing.com/equities/alexion-pharmaceuticals,-inc.
+Linde PLC,https://www.investing.com/equities/linde-plc?cid=942017
+Nektar,https://www.investing.com/equities/nektar-therapeutics
+PNC Financial,https://www.investing.com/equities/pnc-fin-serv
+Kimberly-Clark,https://www.investing.com/equities/kimberly-clark
+CMS Energy,https://www.investing.com/equities/cms-energy-corp
+American Tower,https://www.investing.com/equities/amer-tower-corp
+Ingersoll Rand,https://www.investing.com/equities/ingersoll-rand
+PACCAR,https://www.investing.com/equities/paccar-inc
+Cigna,https://www.investing.com/equities/cigna-corp
+Eversource Energy,https://www.investing.com/equities/northeast-utilities
+Travelers,https://www.investing.com/equities/the-travelers-co
+Air Products,https://www.investing.com/equities/air-prods---chem
+Sysco,https://www.investing.com/equities/sysco-corp
+Broadcom,https://www.investing.com/equities/avago-technologies
+Chubb,https://www.investing.com/equities/chubb-corp
+Hasbro,https://www.investing.com/equities/hasbro-inc
+Crown Castle,https://www.investing.com/equities/crown-castle-int
+Hartford,https://www.investing.com/equities/hartford-finl
+Albemarle,https://www.investing.com/equities/albemarle
+Accenture,https://www.investing.com/equities/accenture-ltd
+Duke,https://www.investing.com/equities/duke-realty-corp
+Alaska Air,https://www.investing.com/equities/alaska-air
+HollyFrontier,https://www.investing.com/equities/hollyfrontier-co
+Consolidated Edison,https://www.investing.com/equities/cocnsol-edison
+Illinois Tool Works,https://www.investing.com/equities/illinois-tool-wk-r
+Danaher,https://www.investing.com/equities/danaher-corp
+FLIR Systems,https://www.investing.com/equities/flir-systems
+T Rowe,https://www.investing.com/equities/t-rowe-price-gp
+NRG,https://www.investing.com/equities/nrg-energy-inc
+AmerisourceBergen,https://www.investing.com/equities/amerisourcebergn
+Discover,https://www.investing.com/equities/discover-financl
+HCA,https://www.investing.com/equities/hca-holdings-inc
+Biogen,https://www.investing.com/equities/biogen-idec-inc
+General Dynamics,https://www.investing.com/equities/general-dynam
+Rollins,https://www.investing.com/equities/rollins-inc
+Republic Services,https://www.investing.com/equities/republic-services-inc
+PPG Industries,https://www.investing.com/equities/ppg-industries
+L3Harris Technologies,https://www.investing.com/equities/harris-corporation
+Expeditors Washington,https://www.investing.com/equities/expeditors-intl-wash-inc
+Assurant,https://www.investing.com/equities/assurant
+Alphabet A,https://www.investing.com/equities/google-inc
+Leggett&Platt,https://www.investing.com/equities/leggett---platt
+Best Buy,https://www.investing.com/equities/best-buy
+Marsh McLennan,https://www.investing.com/equities/marsh---mclennan
+Federal Realty,https://www.investing.com/equities/federal-realty-investment-trust
+Entergy,https://www.investing.com/equities/entergy-corp
+VF,https://www.investing.com/equities/vf-corp
+Tractor Supply,https://www.investing.com/equities/tractor-supply-company
+Church&Dwight,https://www.investing.com/equities/church---dwight
+Ross Stores,https://www.investing.com/equities/ross-stores-inc
+Autodesk,https://www.investing.com/equities/autodesk-inc
+Foot Locker,https://www.investing.com/equities/foot-locker
+Principal Financial,https://www.investing.com/equities/principal-fin
+Quest Diagnostics,https://www.investing.com/equities/quest-diag
+WEC Energy,https://www.investing.com/equities/wisconsin-energy-corp
+Intuit,https://www.investing.com/equities/intuit
+Fortinet,https://www.investing.com/equities/fortinet
+Atmos Energy,https://www.investing.com/equities/atmos-energy-corp
+Alphabet C,https://www.investing.com/equities/google-inc-c
+Cadence Design,https://www.investing.com/equities/cadence-design-system-inc
+Sempra Energy,https://www.investing.com/equities/sempra-energy
+Boston Properties,https://www.investing.com/equities/boston-ppty
+Anthem,https://www.investing.com/equities/wellpoint-inc
+Agilent Technologies,https://www.investing.com/equities/agilent-tech
+Jack Henry&Associates,https://www.investing.com/equities/jack-henry---asso
+Affiliated Managers,https://www.investing.com/equities/affiliated-managers-group-inc
+LKQ,https://www.investing.com/equities/lkq
+Ball,https://www.investing.com/equities/ball-corp
+Deere&Company,https://www.investing.com/equities/deere---co
+Comerica,https://www.investing.com/equities/comerica-inc
+Cimarex Energy,https://www.investing.com/equities/cimarex-energy
+Westinghouse Air Brake,https://www.investing.com/equities/westinghouse-air-brake-tech
+Charter Communications,https://www.investing.com/equities/charter-communications
+Robert Half,https://www.investing.com/equities/robert-half-intl
+Illumina,https://www.investing.com/equities/illumina,-inc.
+Xylem,https://www.investing.com/equities/xylem
+Keysight Technologies,https://www.investing.com/equities/keysight-technologies
+Evergy,https://www.investing.com/equities/westar-energy
+Garmin,https://www.investing.com/equities/garmin-ltd
+SL Green,https://www.investing.com/equities/sl-green-realty
+Ametek,https://www.investing.com/equities/ametek-inc
+Cummins,https://www.investing.com/equities/cummins-inc
+Paychex,https://www.investing.com/equities/paychex-inc
+Advance Auto Parts,https://www.investing.com/equities/advance-auto-parts
+Amphenol,https://www.investing.com/equities/amphenol-corp
+Regeneron Pharma,https://www.investing.com/equities/regeneron-phar.
+Henry Schein,https://www.investing.com/equities/henry-schein
+ResMed,https://www.investing.com/equities/resmed-inc
+Becton Dickinson,https://www.investing.com/equities/becton-dickinsn
+Equifax,https://www.investing.com/equities/equifax-inc
+Arconic,https://www.investing.com/equities/arconic-inc
+CarMax,https://www.investing.com/equities/carmax-inc
+CH Robinson,https://www.investing.com/equities/c-h-robinson-worldwide-inc
+AO Smith,https://www.investing.com/equities/a.o-smith-corp
+Stanley Black Decker,https://www.investing.com/equities/stanley-works
+Lam Research,https://www.investing.com/equities/lam-research-corp
+Mohawk Industries,https://www.investing.com/equities/mohawk-industries
+Flowserve,https://www.investing.com/equities/flowserve-corp
+Parker-Hannifin,https://www.investing.com/equities/parkerhannifin
+Regency Centers,https://www.investing.com/equities/regency-centers-corp
+Darden Restaurants,https://www.investing.com/equities/dardem-rest
+Copart,https://www.investing.com/equities/copart-inc
+Northrop Grumman,https://www.investing.com/equities/northrop-grumman
+CBRE A,https://www.investing.com/equities/cbre
+United Rentals,https://www.investing.com/equities/united-rentals
+Dentsply,https://www.investing.com/equities/dentsply-intl-inc-new
+Hershey Co,https://www.investing.com/equities/hershey-co
+Moodys,https://www.investing.com/equities/moodys-corp
+Digital,https://www.investing.com/equities/digital-realty-trust-inc
+Alliant Energy,https://www.investing.com/equities/alliant-energy
+Alliance Data Systems,https://www.investing.com/equities/alliance-data-systems
+Kansas City Southern,https://www.investing.com/equities/kansas-city-southern-inc
+DaVita,https://www.investing.com/equities/davita-inc
+Fortune Brands,https://www.investing.com/equities/fortune-brands-home---security
+Raymond James Financial,https://www.investing.com/equities/raymond-james-financial-inc
+Cincinnati Financial,https://www.investing.com/equities/cincinnati-fin
+PerkinElmer,https://www.investing.com/equities/perkinelmer
+McKesson,https://www.investing.com/equities/mckesson-corp
+Celanese,https://www.investing.com/equities/celanese
+Stryker,https://www.investing.com/equities/stryker
+Roper Technologies,https://www.investing.com/equities/roper-industries
+Ralph Lauren A,https://www.investing.com/equities/polo-ralph-laur
+Eastman Chemical,https://www.investing.com/equities/eastman-chem
+Norfolk Southern,https://www.investing.com/equities/norfolk-southern
+JM Smucker,https://www.investing.com/equities/jm-smucker-co
+Arthur J Gallagher,https://www.investing.com/equities/arthur-j.-gallagher---co
+O’Reilly Automotive,https://www.investing.com/equities/oreilly-automotive
+FleetCor,https://www.investing.com/equities/fleetcor-tech
+JB Hunt,https://www.investing.com/equities/j.b.-hunt-transpo
+Vulcan Materials,https://www.investing.com/equities/vulcan-matrls
+Ameriprise Financial,https://www.investing.com/equities/ameriprise-fincl
+Packaging America,https://www.investing.com/equities/packaging-corp
+Textron,https://www.investing.com/equities/textron-inc
+Northern Trust,https://www.investing.com/equities/northern-trust
+McCormick&Co,https://www.investing.com/equities/mccormick---co
+Alexandria RE,https://www.investing.com/equities/alexandria-real-estate-equities
+Synopsys,https://www.investing.com/equities/synopsys-inc
+Public Storage,https://www.investing.com/equities/public-stg-mld
+Citrix Systems,https://www.investing.com/equities/citrix-sys-inc
+Quanta Services,https://www.investing.com/equities/quanta-services
+Dover,https://www.investing.com/equities/dover-corp
+First Republic Bank,https://www.investing.com/equities/first-republic-bank
+Cboe Global,https://www.investing.com/equities/cboe-holdings-inc
+Pentair,https://www.investing.com/equities/pentair
+Brown Forman,https://www.investing.com/equities/brown-forman-b
+Motorola,https://www.investing.com/equities/motorola-inc
+Martin Marietta Materials,https://www.investing.com/equities/martin-marietta-materials-inc
+Pinnacle West,https://www.investing.com/equities/pinnacle-west
+BlackRock,https://www.investing.com/equities/blackrock,-inc.-c
+Laboratory America,https://www.investing.com/equities/laboratory-corp-of-amer
+F5 Networks,https://www.investing.com/equities/f5-networks-inc
+Broadridge,https://www.investing.com/equities/broadridge-financial-solutions
+PVH,https://www.investing.com/equities/pvh
+Mid-America Apartment,https://www.investing.com/equities/mid-america-apartment-communities
+Essex Property,https://www.investing.com/equities/essex-property-trust-inc
+Rockwell Automation,https://www.investing.com/equities/rockwell-automat
+Willis Towers Watson,https://www.investing.com/equities/willis-group-holdings-plc
+Jacobs Engineering,https://www.investing.com/equities/jacobs-engineer
+Lamb Weston Holdings,https://www.investing.com/equities/lamb-weston-holdings-inc
+VeriSign,https://www.investing.com/equities/verisign-inc
+SBA Communications,https://www.investing.com/equities/sba-communications-corp
+Ulta Beauty,https://www.investing.com/equities/ulta-salon-cosmetics---fragrance
+AvalonBay,https://www.investing.com/equities/avalonbay-comm
+Intuitive Surgical,https://www.investing.com/equities/intuitive-surgical-inc
+Ecolab,https://www.investing.com/equities/ecolab-inc
+KLA-Tencor,https://www.investing.com/equities/kla-tencor-corp
+M&T Bank,https://www.investing.com/equities/m-t-bank-corp
+IDEXX Labs,https://www.investing.com/equities/idexx-laboratorie
+Genuine Parts,https://www.investing.com/equities/genuine-parts-co
+Gartner,https://www.investing.com/equities/gartner
+Extra Space Storage,https://www.investing.com/equities/extra-space-storage
+Nasdaq Inc,https://www.investing.com/equities/nasdaq-omx-group
+Arista Networks,https://www.investing.com/equities/arista-networks
+Loews,https://www.investing.com/equities/loews-corporation
+Sherwin-Williams,https://www.investing.com/equities/sherwinwilliams
+Avery Dennison,https://www.investing.com/equities/avery-dennison
+Whirlpool,https://www.investing.com/equities/whirl-pool-corp
+Snap-On,https://www.investing.com/equities/snapon-inc
+DTE Energy,https://www.investing.com/equities/dte-energy
+American Water Works,https://www.investing.com/equities/american-water-works-inc
+Equinix,https://www.investing.com/equities/equinix,-inc.
+MSCI,https://www.investing.com/equities/msci-inc
+Verisk,https://www.investing.com/equities/verisk-analytics-inc
+Align,https://www.investing.com/equities/align-technology
+Globe Life,https://www.investing.com/equities/torchmark-corp
+Allegion PLC,https://www.investing.com/equities/allegion-public
+Varian,https://www.investing.com/equities/varian-medical
+Cintas,https://www.investing.com/equities/cintas-corp
+SVB,https://www.investing.com/equities/svb-financial-gro
+ANSYS,https://www.investing.com/equities/ansys
+WW Grainger,https://www.investing.com/equities/w-w-grainger-inc
+Transdigm,https://www.investing.com/equities/transdigm-group-inc
+Booking,https://www.investing.com/equities/priceline.com-inc
+Huntington Ingalls Industries,https://www.investing.com/equities/huntington-ingalls-industries-inc
+ABIOMED,https://www.investing.com/equities/abiomed
+Universal Health Services,https://www.investing.com/equities/universal-health-services
+Waters,https://www.investing.com/equities/waters-corp
+Everest,https://www.investing.com/equities/everest-re-group-ltd
+Chipotle Mexican Grill,https://www.investing.com/equities/chipotle-mexican-grill-inc
+AutoZone,https://www.investing.com/equities/autozone-inc
+Cooper,https://www.investing.com/equities/cooper-companies-inc
+MarketAxesss,https://www.investing.com/equities/marketaxess-holdi
+Teleflex,https://www.investing.com/equities/teleflex-inc
+IPG Photonics,https://www.investing.com/equities/ipg-photonics-corp.
+Mettler-Toledo,https://www.investing.com/equities/mettler-toledo-international-inc
+Concho Resources,https://www.investing.com/equities/concho-resources-inc
