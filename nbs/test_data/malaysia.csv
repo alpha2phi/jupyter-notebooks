@@ -1,0 +1,930 @@
+country,name,full_name,isin,currency,symbol
+malaysia,Media Chinese Int,Media Chinese International Ltd,BMG5959D1048,MYR,MDCH
+malaysia,AMMB,AMMB Holdings Bhd,MYL1015OO006,MYR,AMMB
+malaysia,CIMB Group,CIMB Group Holdings Bhd,MYL1023OO000,MYR,CIMB
+malaysia,RHB Bank,RHB Bank Bhd,MYL1066OO009,MYR,RHBC
+malaysia,Hong Leong Financial,Hong Leong Financial Group Bhd,MYL1082OO006,MYR,HLCB
+malaysia,Malayan Banking,Malayan Banking Bhd,MYL1155OO000,MYR,MBBM
+malaysia,Malaysia Building,Malaysia Building Society Bhd,MYL1171OO007,MYR,MBSS
+malaysia,Public Bank,Public Bank Bhd,MYL1295OO004,MYR,PUBM
+malaysia,Berjaya Sports Toto,Berjaya Sports Toto Bhd,MYL1562OO007,MYR,BSTB
+malaysia,DRB Hicom,DRB - Hicom Bhd,MYL1619OO005,MYR,DRBM
+malaysia,Malaysian Resources,Malaysian Resources Corporation,MYL1651OO008,MYR,MYRS
+malaysia,Bursa Malaysia,Bursa Malaysia Bhd,MYL1818OO003,MYR,BMYS
+malaysia,IOI Corp,IOI Corporation Bhd,MYL1961OO001,MYR,IOIB
+malaysia,TDM,TDM Bhd,MYL2054OO004,MYR,TDMS
+malaysia,MMC Corp,MMC Corporation Bhd,MYL2194OO008,MYR,MMCB
+malaysia,Genting Plantations,Genting Plantations Bhd,MYL2291OO002,MYR,GENP
+malaysia,Kuala Lumpur Kepong,Kuala Lumpur Kepong Bhd,MYL2445OO004,MYR,KLKK
+malaysia,Alliance Bank Malaysia,Alliance Financial Group Bhd,MYL2488OO004,MYR,ALLI
+malaysia,Boustead,Boustead Holdings Bhd,MYL2771OO003,MYR,BOUS
+malaysia,Carlsberg Brewery,Carlsberg Brewery Malaysia Bhd,MYL2836OO004,MYR,CBMS
+malaysia,Dutch Lady Milk,Dutch Lady Milk Industries Bhd,MYL3026OO001,MYR,DBMS
+malaysia,Hap Seng Consolidated,Hap Seng Consolidated Bhd,MYL3034OO005,MYR,HAPS
+malaysia,Genting,Genting Bhd,MYL3182OO002,MYR,GENT
+malaysia,IJM Corp,IJM Corporation Bhd,MYL3336OO004,MYR,IJMS
+malaysia,Berjaya Corp,Berjaya Corporation Bhd,MYL3395OO000,MYR,BGRO
+malaysia,Eastern & Oriental,Eastern & Oriental Bhd,MYL3417OO002,MYR,ENOB
+malaysia,Lafarge Malayan Cement,Lafarge Malayan Cement Bhd,MYL3794OO004,MYR,MALY
+malaysia,MISC,MISC Bhd,MYL3816OO005,MYR,MISC
+malaysia,Magnum,Magnum Bhd,MYL3859OO005,MYR,MAGM
+malaysia,Mulpha Int,Mulpha International Bhd,MYL3905OO006,MYR,MITC
+malaysia,PPB,PPB Group Bhd,MYL4065OO008,MYR,PEPT
+malaysia,BAT Malaysia,British American Tobacco Malaysia Bhd,MYL4162OO003,MYR,BATO
+malaysia,Sime Darby,Sime Darby Bhd,MYL4197OO009,MYR,SIME
+malaysia,Media Prima,Media Prima Bhd,MYL4502OO000,MYR,MPRM
+malaysia,UMW,UMW Holdings Bhd,MYL4588OO009,MYR,UMWS
+malaysia,YTL Corp,YTL Corporation Bhd,MYL4677OO000,MYR,YTLS
+malaysia,Telekom Malaysia,Telekom Malaysia Bhd,MYL4863OO006,MYR,TLMM
+malaysia,TIME Dotcom,TIME Dotcom Bhd,MYL5031OO009,MYR,TCOM
+malaysia,TH Plantations,TH Plantations Bhd,MYL5112OO007,MYR,THPB
+malaysia,Zhulian Corp,Zhulian Corporation Bhd,MYL5131OO007,MYR,ZHCO
+malaysia,UEM Sunrise,UEM Sunrise Bhd,MYL5148OO001,MYR,UMSB
+malaysia,TA Global,TA Global Bhd,MYL5158OO000,MYR,TAGL
+malaysia,UOA Development,UOA Development Bhd,MYL5200OO000,MYR,UOAD
+malaysia,Tenaga Nasional,Tenaga Nasional Bhd,MYL5347OO009,MYR,TENA
+malaysia,Tropicana Corp,Tropicana Corporation Bhd,MYL5401OO004,MYR,TROP
+malaysia,YTL Power Int,YTL Power International Bhd,MYL6742OO000,MYR,YTLP
+malaysia,Top Glove Corp,Top Glove Corporation Bhd,MYL7113OO003,MYR,TPGC
+malaysia,TSH Resources,TSH Resources Bhd,MYL9059OO006,MYR,TSHR
+malaysia,WCT,WCT Holdings Bhd,MYL9679OO001,MYR,WCTE
+malaysia,POS Malaysia & Srvcs,POS Malaysia&Services Holdings Bhd,MYL4634OO001,MYR,PSHL
+malaysia,Genting Malaysia,Genting Malaysia Bhd,MYL4715OO008,MYR,GENM
+malaysia,Ta Ann,Ta Ann Holdings Bhd,MYL5012OO009,MYR,TAAN
+malaysia,Malaysia Airport,Malaysia Airport Holdings Bhd,MYL5014OO005,MYR,MAHB
+malaysia,OSK,OSK Holdings Bhd,MYL5053OO003,MYR,OSKH
+malaysia,Malaysian Bulk Carriers,Malaysian Bulk Carriers Bhd,MYL5077OO002,MYR,MBCB
+malaysia,Mudajaya,Mudajaya Group Bhd,MYL5085OO005,MYR,MJYA
+malaysia,Airasia,Airasia Bhd,MYL5099OO006,MYR,AIRA
+malaysia,Rimbunan Sawit,Rimbunan Sawit Bhd,MYL5113OO005,MYR,RIMB
+malaysia,Hap Seng Plantations,Hap Seng Plantations Holdings Bhd,MYL5138OO002,MYR,HAPP
+malaysia,Aeon Credit Service,Aeon Credit Service Bhd,MYL5139OO000,MYR,ANCR
+malaysia,Dayang Enterprise,Dayang Enterprise Holdings Bhd,MYL5141OO006,MYR,DEHB
+malaysia,JCY Int,JCY International Bhd,MYL5161OO004,MYR,JCYI
+malaysia,Hartalega,Hartalega Holdings Bhd,MYL5168OO009,MYR,HTHB
+malaysia,CapitaLand Malaysia Mall,CapitaLand Malaysia Mall Trust,MYL5180TO003,MYR,CAMA
+malaysia,Petronas Chemicals,Petronas Chemicals Group Bhd,MYL5183OO008,MYR,PCGB
+malaysia,Malaysia Marine and Heavy Eng,Malaysia Marine and Heavy Engineering Holdings Bhd,MYL5186OO001,MYR,MHEB
+malaysia,Gas Malaysia,Gas Malaysia Bhd,MYL5209OO001,MYR,GASM
+malaysia,Bumi Armada,Bumi Armada Bhd,MYL5210OO009,MYR,BUAB
+malaysia,Sunway,Sunway Bhd,MYL5211OO007,MYR,SWAY
+malaysia,Pavilion REIT,Pavilion Real Estate Inv Trust,MYL5212TO004,MYR,PREI
+malaysia,Sapura Energy,Sapura Energy Bhd,MYL5218OO002,MYR,SAEN
+malaysia,Felda Global Ventures,Felda Global Ventures Holdings Bhd,MYL5222OO004,MYR,FGVH
+malaysia,IHH Healthcare,IHH Healthcare Bhd,MYL5225OO007,MYR,IHHH
+malaysia,IGB REIT,IGB Real Estate Investment Trust,MYL5227TO002,MYR,IGRE
+malaysia,KLCC Property,KLCC Property Holdings Bhd,MYL5235SS008,MYR,KLCC
+malaysia,BIMB,BIMB Holdings Bhd,MYL5258OO008,MYR,BIMB
+malaysia,Gamuda,Gamuda Bhd,MYL5398OO002,MYR,GAMU
+malaysia,Parkson,Parkson Holdings Bhd,MYL5657OO001,MYR,PRKN
+malaysia,Petronas Dagangan,Petronas Dagangan Bhd,MYL5681OO001,MYR,PETR
+malaysia,Hong Leong Bank,Hong Leong Bank Bhd,MYL5819OO007,MYR,HLBB
+malaysia,KPJ Healthcare,KPJ Healthcare Bhd,MYL5878OO003,MYR,KPJH
+malaysia,MBM Resources,MBM Resources Bhd,MYL5983OO001,MYR,MBMR
+malaysia,Maxis,Maxis Bhd,MYL6012OO008,MYR,MXSC
+malaysia,Petronas Gas,Petronas Gas Bhd,MYL6033OO004,MYR,PGAS
+malaysia,Astro Malaysia,Astro Malaysia Holdings Bhd,MYL6399OO009,MYR,ASTR
+malaysia,Axiata,Axiata Group Bhd,MYL6888OO001,MYR,AXIA
+malaysia,DiGi.Com,DiGi.Com Bhd,MYL6947OO005,MYR,DSOM
+malaysia,Padini,Padini Holdings Bhd,MYL7052OO003,MYR,PDNI
+malaysia,QL Resources,QL Resources Bhd,MYL7084OO006,MYR,QRES
+malaysia,Supermax Corp,Supermax Corporation Bhd,MYL7106OO007,MYR,SUPM
+malaysia,Kossan Rubber Ind,Kossan Rubber Industries Bhd,MYL7153OO009,MYR,KRIB
+malaysia,Dialog,Dialog Group Bhd,MYL7277OO006,MYR,DIAL
+malaysia,Mah Sing,Mah Sing Group Bhd,MYL8583OO006,MYR,MAHS
+malaysia,SP Setia,SP Setia Bhd,MYL8664OO004,MYR,SETI
+malaysia,Perisai Petroleum,Perisai Petroleum Teknologi Bhd,MYQ0047OO009,MYR,PPTB
+malaysia,Karex,Karex,MYL5247OO001,MYR,KARE
+malaysia,Carimin Petroleum,Carimin Petroleum Bhd,MYL5257OO000,MYR,CARM
+malaysia,Key Alliance,Key Alliance Group Bhd,MYQ0036OO002,MYR,KGRP
+malaysia,Appasia,Appasia Bhd,MYQ0119OO006,MYR,APPA
+malaysia,Only World,Only World Group Holdings Bhd,MYL5260OO004,MYR,ONLY
+malaysia,EA Technique M,EA Technique M Bhd,MYL5259OO006,MYR,EATE
+malaysia,Prg,Prg Holdings Bhd,MYL7168OO007,MYR,PRGH
+malaysia,Astral Asia,Astral Asia Bhd,MYL7054OO009,MYR,AASB
+malaysia,Able,AbleGroup Bhd,MYL7086OO001,MYR,ABEL
+malaysia,ABM Fujiya,ABM Fujiya Bhd,MYL5198OO006,MYR,ABMF
+malaysia,Ancom,Ancom Bhd,MYL4758OO008,MYR,ACBM
+malaysia,Acme,Acme Holdings Bhd,MYL7131OO005,MYR,ACME
+malaysia,Acoustech,Acoustech Bhd,MYL7120OO008,MYR,ACOU
+malaysia,Advance Synergy,Advance Synergy Bhd,MYL1481OO000,MYR,ADVA
+malaysia,Adventa,Adventa Bhd,MYL7191OO009,MYR,ADVE
+malaysia,AE Multi,AE Multi Holdings Bhd,MYL7146OO003,MYR,AEMU
+malaysia,AEON Co,AEON Co (Malaysia) Bhd,MYL6599OO004,MYR,AEOM
+malaysia,Asia File Corp,Asia File Corporation Bhd,MYL7129OO009,MYR,AFCB
+malaysia,Apollo Food,Apollo Food Holdings Bhd,MYL6432OO008,MYR,AFHB
+malaysia,AFFIN,AFFIN Holdings Bhd,MYL5185OO003,MYR,AFIN
+malaysia,Allianz Malaysia,Allianz Malaysia Bhd,MYL1163OO004,MYR,AINM
+malaysia,AirAsia X,AirAsia X Bhd,MYL5238OO000,MYR,AIRX
+malaysia,Amalgamated Steel,Amalgamated Industrial Steel,MYL2682OO002,MYR,AISS
+malaysia,Ajinomoto Malaysia,Ajinomoto Malaysia Bhd,MYL2658OO002,MYR,AJIN
+malaysia,Ajiya,Ajiya Bhd,MYL7609OO000,MYR,AJIY
+malaysia,Alam Maritim Res,Alam Maritim Resources Bhd,MYL5115OO000,MYR,ALMT
+malaysia,Amcorp Properties,Amcorp Properties Bhd,MYL1007OO003,MYR,AMCO
+malaysia,Aluminium Malaysia,Aluminium Company of Malaysia Bhd,MYL2674OO009,MYR,ALCO
+malaysia,Amverton,Amverton Bhd,MYL5959OO001,MYR,AMVE
+malaysia,Amway,Amway (Malaysia) Holdings Bhd,MYL6351OO000,MYR,AMWA
+malaysia,Ann Joo Resources,Ann Joo Resources Bhd,MYL6556OO004,MYR,ANNJ
+malaysia,Analabs Resources,Analabs Resources Bhd,MYL7083OO008,MYR,ANRE
+malaysia,APB Resources,APB Resources Bhd,MYL5568OO000,MYR,APBS
+malaysia,Apex Healthcare,Apex Healthcare Bhd,MYL7090OO003,MYR,APER
+malaysia,Apex Equity,Apex Equity Holdings Bhd,MYL5088OO009,MYR,APES
+malaysia,APFT,APFT Bhd,MYL5194OO005,MYR,APFT
+malaysia,Asian Pac,Asian Pac Holdings Bhd,MYL4057OO005,MYR,APHB
+malaysia,APM Automotive,APM Automotive Holdings Bhd,MYL5015OO002,MYR,APMA
+malaysia,Advanced Packaging Tech,Advanced Packaging Tech (Malaysia),MYL9148OO007,MYR,APTB
+malaysia,ARK Resources,ARK Resources Bhd,MYL7007OO007,MYR,ARKS
+malaysia,A Rank,A Rank Bhd,MYL7214OO009,MYR,ARNK
+malaysia,AHB,AHB Holdings Bhd,MYL7315OO004,MYR,ARTW
+malaysia,Asia Brands,Asia Brands Bhd,MYL7722OO001,MYR,ASIA
+malaysia,RGT Bhd,RGT Bhd,MYL9954OO008,MYR,RGTB
+malaysia,Vizione Holdings,Vizione Holdings Bhd,MYL7070OO005,MYR,VIZI
+malaysia,Atlan,Atlan Holdings Bhd,MYL7048OO001,MYR,ATLA
+malaysia,Astino,Astino Bhd,MYL7162OO000,MYR,ATNO
+malaysia,Arb,Arb Bhd,MYL7181OO000,MYR,ARBB
+malaysia,AWC,AWC Bhd,MYL7579OO005,MYR,AWCF
+malaysia,AYS Ventures,AYS Ventures Bhd,MYL5021OO000,MYR,AYSV
+malaysia,Ahmad Zaki Res,Ahmad Zaki Resources Bhd,MYL7078OO008,MYR,AZRB
+malaysia,BCB,BCB Bhd,MYL6602OO006,MYR,BCBB
+malaysia,Bina Darulaman,Bina Darulaman Bhd,MYL6173OO008,MYR,BDBS
+malaysia,Benalec,Benalec Holdings Bhd,MYL5190OO003,MYR,BENL
+malaysia,Berjaya Assets,Berjaya Assets Bhd,MYL3239OO000,MYR,BERJ
+malaysia,Bertam Alliance,Bertam Alliance Bhd,MYL9814OO004,MYR,BERM
+malaysia,Brahims,Brahims Holdings Bhd,MYL9474OO007,MYR,BHBD
+malaysia,Boustead Heavy Ind,Boustead Heavy Industries,MYL8133OO000,MYR,BHIB
+malaysia,Nextgreen Global,Nextgreen Global Bhd,MYL7241OO002,MYR,NEXT
+malaysia,BIG Industries,BIG Industries Bhd,MYL7005OO001,MYR,BIGI
+malaysia,Bioalpha,Bioalpha Holdings Bhd,MYQ0179OO000,MYR,BIOA
+malaysia,Impiana Hotels,Impiana Hotels Bhd,MYL7243OO008,MYR,IMPI
+malaysia,Bermaz Auto,Bermaz Auto Bhd,MYL5248OO009,MYR,BERA
+malaysia,Berjaya Food,Berjaya Food Bhd,MYL5196OO000,MYR,BJFO
+malaysia,Berjaya Media,Berjaya Media Bhd,MYL6025OO000,MYR,BJME
+malaysia,Bintai Kinden Corp,Bintai Kinden Corporation Bhd,MYL6998OO008,MYR,BKCB
+malaysia,Chin Hin Property,Chin Hin Group Property Bhd,MYL7187OO007,MYR,CHIN
+malaysia,Berjaya Land,Berjaya Land Bhd,MYL4219OO001,MYR,BLAD
+malaysia,BLD Plantation,BLD Plantation Bhd,MYL5069OO009,MYR,BLDN
+malaysia,Boilermech,Boilermech Holdings Bhd,MYQ0168OO003,MYR,BOIL
+malaysia,Bonia Corp,Bonia Corporation Bhd,MYL9288OO001,MYR,BONI
+malaysia,Boustead Plantations,Boustead Plantations Bhd,MYL5254OO007,MYR,BOPL
+malaysia,Bright Packaging,Bright Packaging Industry Bhd,MYL9938OO001,MYR,BPAC
+malaysia,Box Pak,Box Pak (Malaysia) Bhd,MYL6297OO005,MYR,BPAK
+malaysia,Bintulu Port,Bintulu Port Holdings Bhd,MYL5032OO007,MYR,BPOT
+malaysia,BP Plastics,BP Plastics Holding Bhd,MYL5100OO002,MYR,BPPL
+malaysia,Bina Puri,Bina Puri Holdings Bhd,MYL5932OO008,MYR,BPUR
+malaysia,Brem Holding,Brem Holding Bhd,MYL8761OO008,MYR,BREM
+malaysia,Borneo Oil,Borneo Oil Bhd,MYL7036OO006,MYR,BRNL
+malaysia,BSL Corp,BSL Corp Bhd,MYL7221OO004,MYR,BSLC
+malaysia,Batu Kawan,Batu Kawan Bhd,MYL1899OO003,MYR,BTKW
+malaysia,BTM Resources,BTM Resources Bhd,MYL7188OO005,MYR,BTMR
+malaysia,CAB Cakaran Corp,CAB Cakaran Corporation Bhd,MYL7174OO005,MYR,CABC
+malaysia,Caely,Caely Holdings Bhd,MYL7154OO007,MYR,CAEY
+malaysia,Caring Pharmacy,Caring Pharmacy Group Bhd,MYL5245OO005,MYR,CARI
+malaysia,CB Industrial Product,CB Industrial Product Holding,MYL7076OO002,MYR,CBIP
+malaysia,Cocoaland,Cocoaland Holdings Bhd,MYL7205OO007,MYR,CCLD
+malaysia,Duopharma Biotech,Duopharma Biotech Bhd,MYL7148OO009,MYR,DUOP
+malaysia,Cheetah,Cheetah Holdings Bhd,MYL7209OO009,MYR,CETH
+malaysia,Computer Forms,Computer Forms (Malaysia) Bhd,MYL8044OO009,MYR,CFMS
+malaysia,Chee Wah,Chee Wah Corporation Bhd,MYL9423OO004,MYR,CWGH
+malaysia,Country Heights,Country Heights Holdings Bhd,MYL5738OO009,MYR,CHHB
+malaysia,Choo Bee Metal Ind,Choo Bee Metal Industries Bhd,MYL5797OO005,MYR,CHOO
+malaysia,Chuan Huat Res,Chuan Huat Resources Bhd,MYL7016OO008,MYR,CHRB
+malaysia,China Stationery,China Stationery Ltd,BMG216791167,MYR,CHST
+malaysia,Central Industrial,Central Industrial Corp,MYL8052OO002,MYR,CENT
+malaysia,CI,CI Holdings Bhd,MYL2828OO001,MYR,CIHB
+malaysia,Chemical Co Malaysia,Chemical Company of Malaysia,MYL2879OO004,MYR,CLMS
+malaysia,CME,CME Group Bhd,MYL7018OO004,MYR,CMEG
+malaysia,Comintel Corp,Comintel Corporation Bhd,MYL7195OO000,MYR,CMNL
+malaysia,Cahya Mata Sarawak,Cahya Mata Sarawak Bhd,MYL2852OO001,MYR,CMSM
+malaysia,CN Asia Corp,CN Asia Corporation Bhd,MYL7986OO002,MYR,CNAC
+malaysia,CNI,CNI Holdings Bhd,MYL5104OO004,MYR,CNIH
+malaysia,Can One,Can One Bhd,MYL5105OO001,MYR,CNON
+malaysia,Censof,Censof Holdings Bhd,MYL5195OO002,MYR,CNSH
+malaysia,Concrete Engineering,Concrete Engineering Products,MYL8435OO009,MYR,CONC
+malaysia,China Ouhua Winery,China Ouhua Winery Holdings,SG9999006936,MYR,COWH
+malaysia,Compugates,Compugates Holdings Bhd,MYL5037OO006,MYR,CPGT
+malaysia,Complete Logistic Srvcs,Complete Logistic Services Bhd,MYL5136OO006,MYR,CPLG
+malaysia,Cepatwawasan,Cepatwawasan Group Bhd,MYL8982OO000,MYR,CPWA
+malaysia,Crescendo Corp,Crescendo Corporation Bhd,MYL6718OO000,MYR,CREC
+malaysia,Crest Builder,Crest Builder Holdings Bhd,MYL8591OO009,MYR,CREH
+malaysia,CAM Resources,CAM Resources Bhd,MYL7128OO001,MYR,CRSM
+malaysia,Classic Scenic,Classic Scenic Bhd,MYL7202OO004,MYR,CSCB
+malaysia,CSC Steel,CSC Steel Holdings Bhd,MYL5094OO007,MYR,CSTH
+malaysia,Coastal Contracts,Coastal Contracts Bhd,MYL5071OO005,MYR,CTAL
+malaysia,CJ Century Logistics,CJ Century Logistics Holdings Bhd,MYL7117OO004,MYR,CJCE
+malaysia,Chin Teck Plantations,Chin Teck Plantations Bhd,MYL1929OO008,MYR,CTPB
+malaysia,Cuscapi Berhad,Cuscapi Berhad,MYQ0051OO001,MYR,CUSC
+malaysia,Country View,Country View Bhd,MYL5049OO001,MYR,CVIE
+malaysia,Chin Well,Chin Well Holdings Bhd,MYL5007OO009,MYR,CWHB
+malaysia,Cycle Carriage Bintang,Cycle Carriage Bintang Bhd,MYL2925OO005,MYR,CYCB
+malaysia,CYL Corp,CYL Corporation Bhd,MYL7157OO000,MYR,CYLC
+malaysia,Cypark Res Berhad,Cypark Resources Berhad,MYL5184OO006,MYR,CYPR
+malaysia,Damansara Realty,Damansara Realty Bhd,MYL3484OO002,MYR,DAMA
+malaysia,Dataprep,Dataprep Holdings Bhd,MYL8338OO005,MYR,DATA
+malaysia,Daya Materials,Daya Materials Bhd,MYQ0091OO007,MYR,DAYA
+malaysia,D.B.E. Gurney Res,D.B.E. Gurney Resources Bhd,MYL7179OO004,MYR,DBEG
+malaysia,DeGem,DeGem Bhd,MYL7119OO000,MYR,DEGM
+malaysia,DKSH Malaysia Berhad,DKSH Holdings Malaysia Berhad,MYL5908OO008,MYR,DELM
+malaysia,Destini,Destini Bhd,MYL7212OO003,MYR,DEST
+malaysia,ATA IMS,ATA IMS Bhd,MYL8176OO009,MYR,ATAI
+malaysia,iDimension Cons,iDimension Consolidated Bhd,MYQ0174OO001,MYR,DIME
+malaysia,DKLS Industries,DKLS Industries Bhd,MYL7528OO002,MYR,DKLS
+malaysia,Deleum,Deleum Bhd,MYL5132OO005,MYR,DLEU
+malaysia,Dnonce Tech,Dnonce Tech Bhd,MYL7114OO001,MYR,DNCE
+malaysia,Dagang Nexchange,Dagang Nexchange Bhd,MYL4456OO009,MYR,DNEX
+malaysia,Dolomite Corp,Dolomite Corporation Bhd,MYL5835OO003,MYR,DOLC
+malaysia,Dominant Enterprise,Dominant Enterprise Bhd,MYL7169OO005,MYR,DOMN
+malaysia,D O Green Tech,D O Green Technologies Bhd,MYL7204OO000,MYR,DOVT
+malaysia,Daibochi,Daibochi Bhd,MYL8125OO006,MYR,DAIB
+malaysia,DPS Resources,DPS Resources Bhd,MYL7198OO004,MYR,DPSS
+malaysia,Datasonic,Datasonic Group Bhd,MYL5216OO006,MYR,DSON
+malaysia,Dufu Tech Corp,Dufu Tech Corp Bhd,MYL7233OO009,MYR,DUFU
+malaysia,Dutaland,Dutaland Bhd,MYL3948OO006,MYR,DUTA
+malaysia,EA,EA Holdings Bhd,MYQ0154OO003,MYR,EAHL
+malaysia,Eastland Equity,Eastland Equity Bhd,MYL2097OO003,MYR,EAST
+malaysia,Efficient E Solutions,Efficient E Solutions Bhd,MYQ0064OO004,MYR,ECES
+malaysia,ECM Libra Financial,ECM Libra Financial Group Bhd,MYL2143OO005,MYR,ECMA
+malaysia,EcoFirst Cons,EcoFirst Consolidated Bhd,MYL3557OO005,MYR,ECOF
+malaysia,Eco World Develop,Eco World Develop Group,MYL8206OO004,MYR,ECOW
+malaysia,ECS ICT,ECS ICT Bhd,MYL5162OO002,MYR,VSTE
+malaysia,Eden Inc,Eden Inc Bhd,MYL7471OO005,MYR,EDEN
+malaysia,Eg Industries,Eg Industries Bhd,MYL8907OO007,MYR,EGCM
+malaysia,EKA Noodles,EKA Noodles Bhd,MYL7182OO008,MYR,EKAN
+malaysia,MB World Group,MB World Group Bhd,MYL7189OO003,MYR,MBWO
+malaysia,Ekovest,Ekovest Bhd,MYL8877OO002,MYR,EKOV
+malaysia,Eksons Corp,Eksons Corp Bhd,MYL9016OO006,MYR,EKSN
+malaysia,Emico,Emico Holdings Bhd,MYL9091OO009,MYR,EMIC
+malaysia,Encorp,Encorp Bhd,MYL6076OO003,MYR,ENCR
+malaysia,Eng Kah Corp,Eng Kah Corporation Bhd,MYL7149OO007,MYR,ENGH
+malaysia,Eonmetall,Eonmetall Group Bhd,MYL7217OO002,MYR,EONM
+malaysia,EP Manufacturing,EP Manufacturing Bhd,MYL7773OO004,MYR,EPMB
+malaysia,Euro,Euro Holdings Bhd,MYL7208OO001,MYR,ERHB
+malaysia,Eurospan,Eurospan Holdings Bhd,MYL7094OO005,MYR,ESAN
+malaysia,Eversendai Corp,Eversendai Corporation Bhd,MYL5205OO009,MYR,ESCB
+malaysia,Esthetics Int,Esthetics International Group,MYL5081OO004,MYR,ESTH
+malaysia,Engtex,Engtex Group Bhd,MYL5056OO006,MYR,ETEX
+malaysia,Trive Property Group,Trive Property Group Bhd,MYQ0118OO008,MYR,TRIV
+malaysia,Eupe Corp,Eupe Corporation Bhd,MYL6815OO004,MYR,EUPE
+malaysia,Evergreen Fibreboard,Evergreen Fibreboard Bhd,MYL5101OO000,MYR,EVGN
+malaysia,Ewein,Ewein Bhd,MYL7249OO005,MYR,EWEI
+malaysia,Excel Force MSC,Excel Force MSC Bhd,MYQ0065OO001,MYR,EXFM
+malaysia,FACB Industries,FACB Industries Incorporated,MYL2984OO002,MYR,FACN
+malaysia,Fajarbaru Builder,Fajarbaru Builder Group Bhd,MYL7047OO003,MYR,FAJA
+malaysia,FCW,FCW Holdings Bhd,MYL2755OO006,MYR,FCWH
+malaysia,Far East,Far East Holdings Bhd,MYL5029OO003,MYR,FEHS
+malaysia,Federal International,Federal International Holdings Bhd,MYL8605OO007,MYR,FIHB
+malaysia,Fiamma,Fiamma Holdings Bhd,MYL6939OO002,MYR,FIAM
+malaysia,Fibon,Fibon Bhd,MYQ0149OO003,MYR,FIBN
+malaysia,Fima Corp,Fima Corporation Bhd,MYL3107OO009,MYR,FIMA
+malaysia,Fitters Diversified,Fitters Diversified Bhd,MYL9318OO006,MYR,FITT
+malaysia,Farlim,Farlim Group (Malaysia) Bhd,MYL6041OO007,MYR,FLIM
+malaysia,Sinmah Capital,Sinmah Capital Bhd,MYL9776OO005,MYR,SINM
+malaysia,Freight Management,Freight Management Holdings,MYL7210OO007,MYR,FMHB
+malaysia,Focus Lumber,Focus Lumber Bhd,MYL5197OO008,MYR,FOLU
+malaysia,Formosa Prosonic,Formosa Prosonic Industries,MYL9172OO007,MYR,FPIB
+malaysia,Fraser Neave,Fraser Neave Holdings Bhd,MYL3689OO006,MYR,FRAS
+malaysia,Frontken Corp,Frontken Corporation Bhd,MYQ0128OO007,MYR,FRKN
+malaysia,FSBM,FSBM Holdings Bhd,MYL9377OO002,MYR,FUJI
+malaysia,Kerjaya Prospek,Kerjaya Prospek Group Bhd,MYL7161OO002,MYR,KREJ
+malaysia,Favelle Favco,Favelle Favco Bhd,MYL7229OO007,MYR,FVCO
+malaysia,Gadang,Gadang Holdings Bhd,MYL9261OO008,MYR,GADA
+malaysia,Goh Ban Huat,Goh Ban Huat Bhd,MYL3611OO000,MYR,PARA
+malaysia,GD Express Carrier,GD Express Carrier Bhd,MYQ0078OO004,MYR,GDEX
+malaysia,Ge Shen Corp,Ge Shen Corporation Bhd,MYL7197OO006,MYR,GESH
+malaysia,GHL Systems,GHL Systems Bhd,MYQ0021OO004,MYR,GHLS
+malaysia,Grand Hoover,Grand Hoover Bhd,MYL7010OO001,MYR,GHOO
+malaysia,George Kent,George Kent (Malaysia) Bhd,MYL3204OO004,MYR,GKMS
+malaysia,IGB,IGB Bhd,MYL5606OO008,MYR,IGBB
+malaysia,Global Oriental,Global Oriental Bhd,MYL1147OO007,MYR,GLOL
+malaysia,Glomac,Glomac Bhd,MYL5020OO002,MYR,GLOM
+malaysia,Globaltec Formation,Globaltec Formation Bhd,MYL5220OO008,MYR,GLOT
+malaysia,Gromutual,Gromutual Bhd,MYL9962OO001,MYR,GMUT
+malaysia,Guan Chong,Guan Chong Bhd,MYL5102OO008,MYR,GNCH
+malaysia,Globetronics Tech,Globetronics Tech Bhd,MYL7022OO006,MYR,GNIC
+malaysia,Golden Land,Golden Land Bhd,MYL7382OO004,MYR,GOLD
+malaysia,Gopeng,Gopeng Bhd,MYL2135OO001,MYR,GOPK
+malaysia,GPA,GPA Holdings Bhd,MYL7096OO000,MYR,GPAH
+malaysia,Green Packet,Green Packet Bhd,MYQ0082OO006,MYR,GRNP
+malaysia,Golden Pharos,Golden Pharos Bhd,MYL5649OO008,MYR,GROS
+malaysia,GSB,GSB Group Bhd,MYL7077OO000,MYR,GSBR
+malaysia,GUH,GUH Holdings Bhd,MYL3247OO003,MYR,GUHB
+malaysia,Heineken,Heineken Bhd,MYL3255OO006,MYR,HEIN
+malaysia,Gunung Capital,Gunung Capital Bhd,MYL7676OO009,MYR,GUNU
+malaysia,GuocoLand,GuocoLand (Malaysia) Bhd,MYL1503OO001,MYR,GUOL
+malaysia,Goodway Integrated,Goodway Integrated Industries,MYL7192OO007,MYR,GWAY
+malaysia,Hai O Enterprise,Hai O Enterprise Bhd,MYL7668OO006,MYR,HAIO
+malaysia,Harbour Link,Harbour Link Group Bhd,MYL2062OO007,MYR,HARR
+malaysia,Anzo Holdings,Anzo Holdings Bhd,MYL9342OO006,MYR,ANZO
+malaysia,HB Global,HB Global Ltd,SG9999006928,MYR,HBGL
+malaysia,HCK Capital,HCK Capital Group Bhd,MYL7105OO009,MYR,HCKC
+malaysia,Handal Resources,Handal Resources Bhd,MYL7253OO007,MYR,HDEB
+malaysia,HeiTech Padu,HeiTech Padu Bhd,MYL5028OO005,MYR,HEIT
+malaysia,HeveaBoard,HeveaBoard Bhd,MYL5095OO004,MYR,HEVE
+malaysia,Ho Hup Construction,Ho Hup Construction Company,MYL5169OO007,MYR,HHCS
+malaysia,Hil Industries,Hil Industries Bhd,MYL8443OO003,MYR,HILI
+malaysia,Harn Len Corp,Harn Len Corporation Bhd,MYL7501OO009,MYR,HLEN
+malaysia,Hextar Global,Hextar Global Bhd,MYL5151OO005,MYR,HEXT
+malaysia,Hong Leong Ind,Hong Leong Industries Bhd,MYL3301OO008,MYR,HLIB
+malaysia,Hock Heng Stone,Hock Heng Stone Industries Bhd,MYL5165OO005,MYR,HOCK
+malaysia,Homeritz Corp,Homeritz Corporation Bhd,MYL5160OO006,MYR,HOME
+malaysia,Ho Wah Genting,Ho Wah Genting Bhd,MYL9601OO005,MYR,HOWA
+malaysia,Hup Seng Industries,Hup Seng Industries Bhd,MYL5024OO004,MYR,HSIB
+malaysia,Hock Seng Lee,Hock Seng Lee Bhd,MYL6238OO009,MYR,HSLB
+malaysia,Harrisons,Harrisons Holdings (Malaysia),MYL5008OO007,MYR,HSON
+malaysia,Hiap Teck Venture,Hiap Teck Venture Bhd,MYL5072OO003,MYR,HTVE
+malaysia,Hua Yang,Hua Yang Bhd,MYL5062OO004,MYR,HUAY
+malaysia,HUBLine,HUBLine Bhd,MYL7013OO005,MYR,HUBE
+malaysia,Hume Industries,Hume Industries Bhd,MYL5000OO004,MYR,HUIN
+malaysia,Hwa Tai Industries,Hwa Tai Industries Bhd,MYL8478OO009,MYR,HWAT
+malaysia,Hexza Corp,Hexza Corporation Bhd,MYL3298OO006,MYR,HXZS
+malaysia,I-Berhad,I-Berhad,MYL4251OO004,MYR,IBHD
+malaysia,Ibraco,Ibraco Bhd,MYL5084OO008,MYR,IBRC
+malaysia,IJM Plantations,IJM Plantations Bhd,MYL2216OO009,MYR,IJMP
+malaysia,Inch Kenneth Kajang Rubber,Inch Kenneth Kajang Rubber PLC,GB0004601091,MYR,IKEN
+malaysia,Integrated Logistics,Integrated Logistics Bhd,MYL5614OO002,MYR,ILBM
+malaysia,Imaspro Corp,Imaspro Corporation Bhd,MYL7222OO002,MYR,IMSP
+malaysia,Inari Amertron,Inari Amertron Bhd,MYQ0166OO007,MYR,INAR
+malaysia,Industronics,Industronics Bhd,MYL9393OO009,MYR,INDU
+malaysia,Innoprise Plantations,Innoprise Plantations Bhd,MYL6262OO009,MYR,INNO
+malaysia,Insas,Insas Bhd,MYL3379OO004,MYR,INSS
+malaysia,IOI Properties,IOI Properties Group Bhd,MYL5249OO007,MYR,IOIP
+malaysia,Ipmuda,Ipmuda Bhd,MYL5673OO008,MYR,IPMU
+malaysia,IQ,IQ Group Holdings Bhd,MYL5107OO007,MYR,IQGH
+malaysia,Ire Tex Corp,Ire Tex Corporation Bhd,MYL7183OO006,MYR,IREE
+malaysia,Ireka Corp,Ireka Corporation Bhd,MYL8834OO003,MYR,IRKA
+malaysia,Comfort Gloves,Comfort Gloves Bhd,MYL2127OO008,MYR,COMF
+malaysia,Ideal United Bintang,Ideal United Bintang Bhd,MYL9687OO004,MYR,IUBN
+malaysia,Ivory Properties,Ivory Properties Group Bhd,MYL5175OO004,MYR,IVRY
+malaysia,Iskandar Waterfront City,Iskandar Waterfront City Bhd,MYL1589OO000,MYR,IWCI
+malaysia,Jadi Imaging,Jadi Imaging Holdings Bhd,MYL7223OO000,MYR,JADI
+malaysia,JAKS Resources,JAKS Resources Bhd,MYL4723OO002,MYR,JAKS
+malaysia,Jaycorp,Jaycorp Bhd,MYL7152OO001,MYR,JAYC
+malaysia,Jerasia Capital,Jerasia Capital Bhd,MYL8931OO007,MYR,JERA
+malaysia,Kumpulan Jetson,Kumpulan Jetson Bhd,MYL9083OO006,MYR,JETS
+malaysia,Johan,Johan Holdings Bhd,MYL3441OO002,MYR,JHHS
+malaysia,Johore Tin,Johore Tin Bhd,MYL7167OO009,MYR,JHTN
+malaysia,Jiankun Int,Jiankun International Bhd,MYL8923OO004,MYR,JIAN
+malaysia,Jasa Kita,Jasa Kita Bhd,MYL8648OO007,MYR,JKBM
+malaysia,JMR Conglomeration,JMR Conglomeration Bhd,MYL7043OO002,MYR,JADE
+malaysia,JCBNext Berhad,JCBNext Berhad Bhd,MYQ0058OO006,MYR,JCBN
+malaysia,Jaya Tiasa,Jaya Tiasa Holdings Bhd,MYL4383OO005,MYR,JTIA
+malaysia,GETS Global,GETS Global Bhd,MYL5079OO008,MYR,GETS
+malaysia,Kuchai Develop,Kuchai Develop Bhd,MYL2186OO004,MYR,KCDS
+malaysia,Ken,Ken Holdings Bhd,MYL7323OO008,MYR,KENH
+malaysia,KESM Industries,KESM Industries Bhd,MYL9334OO003,MYR,KESM
+malaysia,WCE Holdings,WCE Holdings Bhd,MYL3565OO008,MYR,WCEH
+malaysia,Kumpulan Fima,Kumpulan Fima Bhd,MYL6491OO004,MYR,KFIM
+malaysia,Kuantan Flour Mills,Kuantan Flour Mills Bhd,MYL8303OO009,MYR,LOTU
+malaysia,Khee San,Khee San Bhd,MYL6203OO003,MYR,KHEE
+malaysia,Khind,Khind Holdings Bhd,MYL7062OO002,MYR,KHIN
+malaysia,Kimlun Corp,Kimlun Corporation Bhd,MYL5171OO003,MYR,KICB
+malaysia,Kim Loong Resources,Kim Loong Resources Bhd,MYL5027OO007,MYR,KIML
+malaysia,JKG Land,JKG Land Bhd,MYL6769OO003,MYR,JKGL
+malaysia,Kluang Rubber,Kluang Rubber Company Malaya,MYL2453OO008,MYR,KLRK
+malaysia,Kamdar,Kamdar Group (Malaysia) Bhd,MYL8672OO007,MYR,KMDA
+malaysia,K N Kenanga,K N Kenanga Holdings Bhd,MYL6483OO001,MYR,KNNK
+malaysia,Knusford,Knusford Bhd,MYL5035OO000,MYR,KNUS
+malaysia,Kobay Tech,Kobay Tech Bhd,MYL6971OO005,MYR,KOBA
+malaysia,Kotra Industries,Kotra Industries Bhd,MYQ0002OO004,MYR,KOIN
+malaysia,Kumpulan Perangsang Selangor,Kumpulan Perangsang Selangor,MYL5843OO007,MYR,KPSB
+malaysia,KPS Consortium,KPS Consortium Bhd,MYL9121OO004,MYR,KPSC
+malaysia,Karambunai Corp,Karambunai Corp Bhd,MYL3115OO002,MYR,KRBN
+malaysia,Kretam,Kretam Holdings Bhd,MYL1996OO007,MYR,KREK
+malaysia,KSL,KSL Holdings Bhd,MYL5038OO004,MYR,KSLH
+malaysia,K Seng Seng Corp,K Seng Seng Corporation Bhd,MYL5192OO009,MYR,KSSC
+malaysia,Konsortium Transnasional,Konsortium Transnasional Bhd,MYL4847OO009,MYR,KSTM
+malaysia,K Star Sports,K Star Sports Ltd,SG9999006571,MYR,KSTR
+malaysia,KUB Malaysia,KUB Malaysia Bhd,MYL6874OO001,MYR,KUBM
+malaysia,Kwantas Corp,Kwantas Corporation Bhd,MYL6572OO001,MYR,KWAN
+malaysia,Kawan Food,Kawan Food Bhd,MYL7216OO004,MYR,KWNF
+malaysia,Key ASIC,Key ASIC Bhd,MYQ0143OO006,MYR,KYAC
+malaysia,Land General,Land General Bhd,MYL3174OO009,MYR,LAND
+malaysia,Lay Hong,Lay Hong Bhd,MYL9385OO005,MYR,LAYH
+malaysia,LBI Capital,LBI Capital Bhd,MYL8494OO006,MYR,LBIP
+malaysia,LBS Bina,LBS Bina Group Bhd,MYL5789OO002,MYR,LBSB
+malaysia,Luxchem Corp,Luxchem Corporation Bhd,MYL5143OO002,MYR,LCBH
+malaysia,Sand Nisko,Sand Nisko Capital Bhd,MYL7943OO003,MYR,SAND
+malaysia,Lebtech,Lebtech Bhd,MYL9628OO008,MYR,LEBT
+malaysia,Leon Fuat,Leon Fuat Bhd,MYL5232OO003,MYR,LEON
+malaysia,LFE Corp,LFE Corporation Bhd,MYL7170OO003,MYR,LFEC
+malaysia,Lien Hoe Corp,Lien Hoe Corporation Bhd,MYL3573OO002,MYR,LHCK
+malaysia,Lii Hen Industries,Lii Hen Industries Bhd,MYL7089OO005,MYR,LHEN
+malaysia,Lee Swee Kiat,Lee Swee Kiat Group Bhd,MYL8079OO005,MYR,LHTM
+malaysia,Lion Forest Ind,Lion Forest Industries Bhd,MYL8486OO002,MYR,LIOF
+malaysia,London Biscuits,London Biscuits Bhd,MYL7126OO005,MYR,LONB
+malaysia,LPI Capital,LPI Capital Bhd,MYL8621OO004,MYR,LOND
+malaysia,Latitude Tree,Latitude Tree Holdings Bhd,MYL7006OO009,MYR,LTHB
+malaysia,LTKM,LTKM Bhd,MYL7085OO003,MYR,LTKM
+malaysia,MAA,MAA Group Bhd,MYL1198OO000,MYR,MAAS
+malaysia,Minda Global,Minda Global Bhd,MYL5166OO003,MYR,MIND
+malaysia,Magna Prima,Magna Prima Bhd,MYL7617OO003,MYR,MAGN
+malaysia,Managepay Systems,Managepay Systems Bhd,MYQ0156OO008,MYR,MANS
+malaysia,Magni Tech Ind,Magni Tech Industries Bhd,MYL7087OO009,MYR,MATE
+malaysia,Matrix Concepts,Matrix Concepts Holdings Bhd,MYL5236OO004,MYR,MATR
+malaysia,Maxwell Int,Maxwell International Holdings,MYL5189OO005,MYR,MAXW
+malaysia,MClean Technologies,MClean Technologies Bhd,MYQ0167OO005,MYR,MCLN
+malaysia,Gw Plastics,Gw Plastics Holdings Bhd,MYL5182OO000,MYR,MCTB
+malaysia,Meridian,Meridian Bhd,MYL5040OO000,MYR,MERI
+malaysia,Mega First Corp,Mega First Corporation Bhd,MYL3069OO001,MYR,MEGA
+malaysia,Melati Ehsan,Melati Ehsan Holdings Bhd,MYL5129OO001,MYR,MEHB
+malaysia,Thriven Global,Thriven Global Bhd,MYL7889OO008,MYR,THRI
+malaysia,Stella Holdings Bhd,Stella Holdings Bhd,MYL5006OO001,MYR,STEL
+malaysia,MKH,MKH Bhd,MYL6114OO002,MYR,METR
+malaysia,Malayan Flour Mills,Malayan Flour Mills Bhd,MYL3662OO003,MYR,MFMS
+malaysia,Malaysian Genomics,Malaysian Genomics Resource,MYQ0155OO000,MYR,MGRC
+malaysia,Malpac,Malpac Holdings Bhd,MYL4936OO000,MYR,MHBS
+malaysia,MHC Plantations,MHC Plantations Bhd,MYL5026OO009,MYR,MHCP
+malaysia,Milux Corp,Milux Corporation Bhd,MYL7935OO009,MYR,MILU
+malaysia,Mintye Industries,Mintye Industries Bhd,MYL5886OO006,MYR,MINT
+malaysia,Mitrajaya,Mitrajaya Holdings Bhd,MYL9571OO000,MYR,MITR
+malaysia,Majuperak,Majuperak Holdings Bhd,MYL8141OO003,MYR,MJPR
+malaysia,M K Land,M K Land Holdings Bhd,MYL8893OO009,MYR,MKLH
+malaysia,Malton,Malton Bhd,MYL6181OO001,MYR,MLTO
+malaysia,Menang Corp,Menang Corporation (Malaysia) Bhd,MYL1694OO008,MYR,MNCS
+malaysia,Mesiniaga,Mesiniaga Bhd,MYL5011OO001,MYR,MNGA
+malaysia,Manulife,Manulife Holdings Bhd,MYL1058OO006,MYR,MNLF
+malaysia,MNRB,MNRB Holdings Bhd,MYL6459OO001,MYR,MNRB
+malaysia,MPHB Capital,MPHB Capital Bhd,MYL5237OO002,MYR,MPHB
+malaysia,Malaysian Pacific Ind,Malaysian Pacific Industries,MYL3867OO008,MYR,MPIM
+malaysia,Malaysia Pacific Corp,Malaysia Pacific Corporation,MYL6548OO001,MYR,MPLB
+malaysia,Marco,Marco Holdings Bhd,MYL3514OO006,MYR,MRHB
+malaysia,MSM Malaysia,MSM Malaysia Holdings Bhd,MYL5202OO006,MYR,MSMH
+malaysia,Multi Sports,Multi Sports Holdings Ltd,BMG6360T1009,MYR,MSPT
+malaysia,Master Pack,Master Pack Group Bhd,MYL7029OO001,MYR,MSTP
+malaysia,MTD ACPI Engineering,MTD ACPI Engineering Bhd,MYL5924OO005,MYR,MTDA
+malaysia,Muhibbah Engineering,Muhibbah Engineering M Bhd,MYL5703OO003,MYR,MUHI
+malaysia,MUI Properties,MUI Properties Bhd,MYL3913OO000,MYR,MUIP
+malaysia,MY EG Services,MY EG Services Bhd,MYQ0138OO006,MYR,MYEG
+malaysia,Naim,Naim Holdings Bhd,MYL5073OO001,MYR,NCHB
+malaysia,Nestle,Nestle (Malaysia) Bhd,MYL4707OO005,MYR,NESM
+malaysia,New Hoong Fatt,New Hoong Fatt Holdings Bhd,MYL7060OO006,MYR,NHFH
+malaysia,Ni Hsin Resources,Ni Hsin Resources Bhd,MYL7215OO006,MYR,NHSN
+malaysia,Niche Capital Emas,Niche Capital Emas Holdings,MYL7139OO008,MYR,NICH
+malaysia,Negri Sembilan Oil Palms,Negri Sembilan Oil Palms Bhd,MYL2038OO007,MYR,NSOS
+malaysia,NTPM,NTPM Holdings Bhd,MYL5066OO005,MYR,NTPM
+malaysia,Notion Vtec,Notion Vtec Bhd,MYQ0083OO004,MYR,NVTE
+malaysia,Oceancash Pacific,Oceancash Pacific Bhd,MYQ0049OO005,MYR,OCEA
+malaysia,Oriental Food Ind,Oriental Food Industries Hold,MYL7107OO005,MYR,OFIH
+malaysia,Oriental Interest,Oriental Interest Bhd,MYL5827OO000,MYR,OINT
+malaysia,Omesti,Omesti Bhd,MYL9008OO003,MYR,OMES
+malaysia,OPCOM,OPCOM Holdings Bhd,MYQ0035OO004,MYR,OPCM
+malaysia,Oriental,Oriental Holdings Bhd,MYL4006OO002,MYR,OTLS
+malaysia,Pacific Orient,Pacific Orient Bhd,MYL6009OO004,MYR,PACO
+malaysia,Mscm,Mscm Holdings Bhd,MYQ0041OO002,MYR,MSCM
+malaysia,Paos,Paos Holdings Bhd,MYL5022OO008,MYR,PAOS
+malaysia,PCCS,PCCS Group Bhd,MYL6068OO000,MYR,PCCS
+malaysia,Pasdec,Pasdec Holdings Bhd,MYL6912OO009,MYR,PDEC
+malaysia,Pelikan Int,Pelikan International Corp,MYL5231OO005,MYR,PELK
+malaysia,Paragon Union,Paragon Union Bhd,MYL9407OO007,MYR,PGON
+malaysia,Poh Huat Resources,Poh Huat Resources Holdings,MYL7088OO007,MYR,PHUA
+malaysia,Pintaras Jaya,Pintaras Jaya Bhd,MYL9598OO003,MYR,PINT
+malaysia,Pinehill Pacific,Pinehill Pacific Bhd,MYL1902OO005,MYR,PIPB
+malaysia,PLB Engineering,PLB Engineering Bhd,MYL7055OO006,MYR,PLBE
+malaysia,Plenitude,Plenitude Bhd,MYL5075OO006,MYR,PLET
+malaysia,PLS Plantations,PLS Plantations Bhd,MYL9695OO007,MYR,PLSB
+malaysia,Pentamaster Corp,Pentamaster Corporation Bhd,MYL7160OO004,MYR,PMAS
+malaysia,Pan Malaysia Corp,Pan Malaysia Corporation Bhd,MYL4081OO005,MYR,PMCS
+malaysia,Panasonic Manufacture,Panasonic Manufacture Malaysia,MYL3719OO001,MYR,PMMY
+malaysia,Poh Kong,Poh Kong Holdings Bhd,MYL5080OO006,MYR,POHK
+malaysia,Power Root,Power Root Bhd,MYL7237OO000,MYR,POWE
+malaysia,Enra Group,Enra Group Bhd,MYL8613OO001,MYR,ENRA
+malaysia,Paramount Corp,Paramount Corporation Bhd,MYL1724OO003,MYR,PRMS
+malaysia,Protasco,Protasco Bhd,MYL5070OO007,MYR,PRTO
+malaysia,Prinsiptek Corp,Prinsiptek Corporation Bhd,MYL7145OO005,MYR,PSIP
+malaysia,Petron Refining,Petron Malaysia Refining Marketing,MYL3042OO008,MYR,PTMR
+malaysia,PW Consolidated,PW Consolidated Bhd,MYL7134OO009,MYR,PWFC
+malaysia,Prolexus,Prolexus Bhd,MYL8966OO003,MYR,PXUS
+malaysia,RCE Capital Berhad,RCE Capital Berhad,MYL9296OO004,MYR,REDI
+malaysia,Rex Industry,Rex Industry Bhd,MYL9946OO004,MYR,REXI
+malaysia,Riverview Rubber Estates,Riverview Rubber Estates Bhd,MYL2542OO008,MYR,RVWL
+malaysia,Sam Engineering Equip,Sam Engineering Equipment,MYL9822OO007,MYR,SAEG
+malaysia,Saudee,Saudee Group Bhd,MYL5157OO002,MYR,SAUD
+malaysia,Sungei Bagan Rubber,Sungei Bagan Rubber Malaya,MYL2569OO001,MYR,SBRK
+malaysia,Selangor Dredging,Selangor Dredging Bhd,MYL2224OO003,MYR,SDGS
+malaysia,Selangor Properties,Selangor Properties Bhd,MYL1783OO009,MYR,SELS
+malaysia,7 Eleven,7 Eleven Malaysia Holdings Bhd,MYL5250OO005,MYR,SEVE
+malaysia,Signature Int,Signature International Bhd,MYL7246OO001,MYR,SGNA
+malaysia,Sin Heng Chan,Sin Heng Chan (Malaya) Bhd,MYL4316OO005,MYR,SHCS
+malaysia,SHH Resources,SHH Resources Holdings Bhd,MYL7412OO009,MYR,SHHR
+malaysia,SHL Consolidated,SHL Consolidated Bhd,MYL6017OO007,MYR,SHLC
+malaysia,SBC Corp,SBC Corp Bhd,MYL5207OO005,MYR,SIAH
+malaysia,Sinotop,Sinotop Holdings Bhd,MYL8532OO003,MYR,SINH
+malaysia,Sern Kou Resources,Sern Kou Resources Bhd,MYL7180OO002,MYR,SKOU
+malaysia,South Malaysia Ind,South Malaysia Industries Bhd,MYL4375OO001,MYR,SMIS
+malaysia,Smtrack,Smtrack Bhd,MYQ0169OO001,MYR,SMTR
+malaysia,Sentoria,Sentoria Group Bhd,MYL5213OO003,MYR,SNTO
+malaysia,Sarawak Oil Palms,Sarawak Oil Palms Bhd,MYL5126OO007,MYR,SOPS
+malaysia,Sarawak Plantation,Sarawak Plantation Bhd,MYL5135OO008,MYR,SPLN
+malaysia,Spritzer,Spritzer Bhd,MYL7103OO004,MYR,SPTZ
+malaysia,Sapura Resources,Sapura Resources Bhd,MYL4596OO002,MYR,SRCS
+malaysia,SWS Capital,SWS Capital Bhd,MYL7186OO009,MYR,SWSB
+malaysia,Sycal Ventures,Sycal Ventures Bhd,MYL9717OO009,MYR,SYCA
+malaysia,SYF Resources,SYF Resources Bhd,MYL7082OO000,MYR,SYFR
+malaysia,Symphony Life,Symphony Life Bhd,MYL1538OO007,MYR,SYML
+malaysia,TA Enterprise,TA Enterprise Bhd,MYL4898OO002,MYR,TAES
+malaysia,TAFI Industries,TAFI Industries Bhd,MYL7211OO005,MYR,TAFI
+malaysia,AYER,AYER Holdings Bhd,MYL2305OO000,MYR,AYER
+malaysia,Syarikat Takaful,Syarikat Takaful Malaysia Bhd,MYL6139OO009,MYR,TAKA
+malaysia,Talam Transform,Talam Transform Bhd,MYL2259OO009,MYR,TALA
+malaysia,Tambun Indah Land,Tambun Indah Land Bhd,MYL5191OO001,MYR,TAMB
+malaysia,Tanco,Tanco Holdings Bhd,MYL2429OO008,MYR,TANC
+malaysia,Teo Guan Lee Corp,Teo Guan Lee Corporation Bhd,MYL9369OO009,MYR,TGLB
+malaysia,Theta Edge,Theta Edge Bhd,MYL9075OO002,MYR,THET
+malaysia,OCR,OCR Group Bhd,MYL7071OO003,MYR,OCRG
+malaysia,Tomei Consolidated,Tomei Consolidated Bhd,MYL7230OO005,MYR,TMEI
+malaysia,Tan Chong Motor,Tan Chong Motor Holdings Bhd,MYL4405OO006,MYR,TNCS
+malaysia,TPC Plus,TPC Plus Bhd,MYL7176OO000,MYR,TPCP
+malaysia,Pimpinan Eshan,Pimpinan Eshan Bhd,MYL5622OO005,MYR,PIMP
+malaysia,TRC Synergy,TRC Synergy Bhd,MYL5054OO001,MYR,TRCG
+malaysia,Teo Seng Capital,Teo Seng Capital Bhd,MYL7252OO009,MYR,TSCP
+malaysia,Tek Seng,Tek Seng Holdings Bhd,MYL7200OO008,MYR,TSHB
+malaysia,TSR Capital,TSR Capital Bhd,MYL5042OO006,MYR,TSRP
+malaysia,Faber,Faber Group Bhd,MYL1368OO009,MYR,UEME
+malaysia,Velesto Energy,Velesto Energy Bhd,MYL5243OO000,MYR,VELE
+malaysia,United Malacca,United Malacca Bhd,MYL2593OO001,MYR,UMRS
+malaysia,Unisem M,Unisem M Bhd,MYL5005OO003,MYR,UNSM
+malaysia,UPA Corp,UPA Corporation Bhd,MYL7757OO007,MYR,UPAB
+malaysia,United Plantations,United Plantations Bhd,MYL2089OO000,MYR,UTPS
+malaysia,ViTrox Corp,ViTrox Corporation Bhd,MYQ0097OO004,MYR,VTRX
+malaysia,Willowglen MSC,Willowglen MSC Bhd,MYQ0008OO001,MYR,WLOW
+malaysia,Westports,Westports Holdings Bhd,MYL5246OO003,MYR,WPHB
+malaysia,WTK,WTK Holdings Bhd,MYL4243OO001,MYR,WTKH
+malaysia,Xian Leng,Xian Leng Holdings Bhd,MYL7121OO006,MYR,XIAN
+malaysia,XiDeLang,XiDeLang Holdings Ltd,BMG9828L1072,MYR,XIDE
+malaysia,Xingquan Int Sports,Xingquan International Sports,BMG982791052,MYR,XING
+malaysia,Y&G Corp,Y&G Corp Bhd,MYL7003OO006,MYR,YGCB
+malaysia,Yoong Onn Corp,Yoong Onn Corporation Bhd,MYL5159OO008,MYR,YGON
+malaysia,Yinson,Yinson Holdings Bhd,MYL7293OO003,MYR,YINS
+malaysia,Yee Lee Corp,Yee Lee Corporation Bhd,MYL5584OO007,MYR,YLEE
+malaysia,YNH Property,YNH Property Bhd,MYL3158OO002,MYR,YNHB
+malaysia,YSP Southeast Asia,YSP Southeast Asia Holding Bhd,MYL7178OO006,MYR,YSPS
+malaysia,YTL Land Develop,YTL Land Develop Bhd,MYL2577OO004,MYR,YTLL
+malaysia,ZECON,ZECON Bhd,MYL7028OO003,MYR,ZCON
+malaysia,Zelan,Zelan Bhd,MYL2283OO009,MYR,ZLAN
+malaysia,Amtel Holdings Bhd,Amtel Holdings Bhd,MYL7031OO007,MYR,AMTH
+malaysia,CCK Consolidated Holdings,CCK Consolidated Holdings Bhd,MYL7035OO008,MYR,CCKH
+malaysia,Cymao Holdings Bhd,Cymao Holdings Bhd,MYL5082OO002,MYR,CYMA
+malaysia,Edaran Bhd,Edaran Bhd,MYL5036OO008,MYR,EDSB
+malaysia,Kumpulan H L High Tech,Kumpulan H & L High-Tech Bhd,MYL7033OO003,MYR,KHLH
+malaysia,Kia Lim Bhd,Kia Lim Bhd,MYL6211OO006,MYR,KIAL
+malaysia,Kim Hin Industry Bhd,Kim Hin Industry Bhd,MYL5371OO009,MYR,KIMH
+malaysia,KKB Engineering Berhad,KKB Engineering Berhad,MYL9466OO003,MYR,KKBE
+malaysia,KNM Group Bhd,KNM Group Bhd,MYL7164OO006,MYR,KNMP
+malaysia,Komarkcorp Bhd,Komarkcorp Bhd,MYL7017OO006,MYR,KOMK
+malaysia,Kumpulan Powernet Bhd,Kumpulan Powernet Bhd,MYL7130OO007,MYR,KPOW
+malaysia,Keck Seng Malaysia,Keck Seng Malaysia Bhd,MYL3476OO008,MYR,KSMS
+malaysia,Kinsteel Bhd,Kinsteel Bhd,MYL5060OO008,MYR,KSTE
+malaysia,LB Aluminium Bhd,LB Aluminium Bhd,MYL9326OO009,MYR,LBAL
+malaysia,Leweko Resources Bhd,Leweko Resources Bhd,MYL8745OO001,MYR,LEWE
+malaysia,Lion Industries Corp,Lion Industries Corporation Bhd,MYL4235OO007,MYR,LLBM
+malaysia,Luster Industries Bhd,Luster Industries Bhd,MYL5068OO001,MYR,LTER
+malaysia,Lysaght Galvanized Steel,Lysaght Galvanized Steel Bhd,MYL9199OO000,MYR,LYSA
+malaysia,MCE Holdings,MCE Holdings Bhd,MYL7004OO004,MYR,MCEI
+malaysia,Mercury Industries Bhd,Mercury Industries Bhd,MYL8192OO006,MYR,MEIS
+malaysia,Mentiga Corporation Bhd,Mentiga Corporation Bhd,MYL5223OO002,MYR,MENT
+malaysia,Mieco Chipboard Bhd,Mieco Chipboard Bhd,MYL5001OO002,MYR,MIEC
+malaysia,MGB,MGB Bhd,MYL7595OO001,MYR,MGBB
+malaysia,Minho M Bhd,Minho M Bhd,MYL5576OO003,MYR,MNHO
+malaysia,Minetech Resources Bhd,Minetech Resources Bhd,MYL7219OO008,MYR,MNTH
+malaysia,Malaysia Smelting,Malaysia Smelting Corporation Bhd,MYL5916OO001,MYR,MSCB
+malaysia,Melewar Industrial Group,Melewar Industrial Group Bhd,MYL3778OO007,MYR,MSTM
+malaysia,Muar Ban Lee Group Bhd,Muar Ban Lee Group Bhd,MYL5152OO003,MYR,MUBL
+malaysia,Muda Holdings Bhd,Muda Holdings Bhd,MYL3883OO005,MYR,MUDA
+malaysia,Multi Usage Holdings Bhd,Multi-Usage Holdings Bhd,MYL9539OO007,MYR,MUHB
+malaysia,Mycron Steel Bhd,Mycron Steel Bhd,MYL5087OO001,MYR,MYCS
+malaysia,Nylex Malaysia Bhd,Nylex (Malaysia) Bhd,MYL4944OO004,MYR,NMBS
+malaysia,Oka Corporation Bhd,Oka Corporation Bhd,MYL7140OO006,MYR,OKAC
+malaysia,Ornapaper Bhd,Ornapaper Bhd,MYL5065OO007,MYR,ORPA
+malaysia,P.A. Resources Bhd,P.A. Resources Bhd,MYL7225OO005,MYR,PARB
+malaysia,Pensonic Holdings Bhd,Pensonic Holdings Bhd,MYL9997OO007,MYR,PENS
+malaysia,Pesona Metro Holdings Bhd,Pesona Metro Holdings Bhd,MYL8311OO002,MYR,PESO
+malaysia,Poly Glass Fibre M Bhd,Poly Glass Fibre (M) Bhd,MYL8117OO003,MYR,PGFM
+malaysia,PIE Industrial Bhd,PIE Industrial Bhd,MYL7095OO002,MYR,PIEN
+malaysia,PMB Technology Bhd,PMB Technology Bhd,MYL7172OO009,MYR,PMBT
+malaysia,Press Metal Bhd,Press Metal Bhd,MYL8869OO009,MYR,PMET
+malaysia,Permaju Industries Bhd,Permaju Industries Bhd,MYL7080OO004,MYR,PMJU
+malaysia,PNE PCB Bhd,PNE PCB Bhd,MYL6637OO002,MYR,PNEB
+malaysia,Pelangi Publishing Group,Pelangi Publishing Group Bhd,MYL7190OO001,MYR,PPGB
+malaysia,Public Packages Holdings,Public Packages Holdings Bhd,MYL8273OO004,MYR,PPHB
+malaysia,Perusahaan Sadur Timah,Perusahaan Sadur Timah Malaysia Perstima Bhd,MYL5436OO000,MYR,PSTM
+malaysia,Prestar Resources Bhd,Prestar Resources Bhd,MYL9873OO000,MYR,PTAR
+malaysia,Priceworth International,Priceworth International Bhd,MYL7123OO002,MYR,PWPB
+malaysia,Rapid Synergy Bhd,Rapid Synergy Bhd,MYL7765OO000,MYR,RAPD
+malaysia,Resintech Bhd,Resintech Bhd,MYL7232OO001,MYR,RESN
+malaysia,Rubberex Corporation M,Rubberex Corporation M Bhd,MYL7803OO009,MYR,RUMM
+malaysia,Sarawak Cable Bhd,Sarawak Cable Bhd,MYL5170OO005,MYR,SACB
+malaysia,Sanbumi Holdings Bhd,Sanbumi Holdings Bhd,MYL9113OO001,MYR,ICOI
+malaysia,Sapura Industrial Bhd,Sapura Industrial Bhd,MYL7811OO002,MYR,SAPU
+malaysia,Success Transformer Corp,Success Transformer Corporation Bhd,MYL7207OO003,MYR,SCCE
+malaysia,Seacera Group Bhd,Seacera Group Bhd,MYL7073OO009,MYR,SCER
+malaysia,SCGM Bhd,SCGM Bhd,MYL7247OO009,MYR,SCGB
+malaysia,Sarawak Consolidated Industries,Sarawak Consolidated Industries Bhd,MYL9237OO008,MYR,SCIB
+malaysia,Scomi Group Bhd,Scomi Group Bhd,MYL7158OO008,MYR,SCOI
+malaysia,Scope Industries Bhd,Scope Industries Bhd,MYQ0028OO009,MYR,SCPE
+malaysia,Scanwolf Corporation Bhd,Scanwolf Corporation Bhd,MYL7239OO006,MYR,SCWF
+malaysia,SEAL Incorporated Bhd,SEAL Incorporated Bhd,MYL4286OO000,MYR,SEAL
+malaysia,SIG Gases Bhd,SIG Gases Bhd,MYL5181OO002,MYR,SIGS
+malaysia,SKP Resources Bhd,SKP Resources Bhd,MYL7155OO004,MYR,SKPR
+malaysia,Sealink International Bhd,Sealink International Bhd,MYL5145OO007,MYR,SLKI
+malaysia,SLP Resources Bhd,SLP Resources Bhd,MYL7248OO007,MYR,SLPB
+malaysia,Hengyuan Refining,Hengyuan Refining Company Bhd,MYL4324OO009,MYR,HENY
+malaysia,Atta Global Group,Atta Global Group Bhd,MYL7099OO004,MYR,ATTA
+malaysia,Sino Hua An International,Sino Hua An International Bhd,MYL2739OO000,MYR,SNHN
+malaysia,Southern Acids M Bhd,Southern Acids (M) Bhd,MYL5134OO001,MYR,SOUS
+malaysia,Superlon Holdings Bhd,Superlon Holdings Bhd,MYL7235OO004,MYR,SPLH
+malaysia,Southern Steel Bhd,Southern Steel Bhd,MYL5665OO004,MYR,STEE
+malaysia,Scientex Bhd,Scientex Bhd,MYL4731OO005,MYR,STIK
+malaysia,Subur Tiasa Holdings Bhd,Subur Tiasa Holdings Bhd,MYL6904OO006,MYR,SUBU
+malaysia,Sunsuria Bhd,Sunsuria Bhd,MYL3743OO001,MYR,SUNS
+malaysia,Sunway Real Estate Invest Trust,Sunway Real Estate Investment Trust,MYL5176TO001,MYR,SUNW
+malaysia,Tadmax Resources Bhd,Tadmax Resources Bhd,MYL4022OO009,MYR,TADM
+malaysia,Dynaciate,Dynaciate Group Bhd,MYL5178OO008,MYR,DYNA
+malaysia,Rohas Tecnic,Rohas Tecnic Bhd,MYL9741OO009,MYR,ROHA
+malaysia,Tekala,Tekala Corporation Bhd,MYL6378OO003,MYR,WMGH
+malaysia,Thong Guan Industries Bhd,Thong Guan Industries Bhd,MYL7034OO001,MYR,TGIB
+malaysia,Three A Resources Bhd,Three A Resources Bhd,MYQ0012OO003,MYR,THEA
+malaysia,Tong Herr Resources Bhd,Tong Herr Resources Bhd,MYL5010OO003,MYR,THRB
+malaysia,Tiger Synergy Bhd,Tiger Synergy Bhd,MYL7079OO006,MYR,TIGE
+malaysia,Tasek Corporation Bhd,Tasek Corporation Bhd,MYL4448OO006,MYR,TKCS
+malaysia,Tomypak Holdings Bhd,Tomypak Holdings Bhd,MYL7285OO009,MYR,TOMY
+malaysia,TAS Offshore Bhd,TAS Offshore Bhd,MYL5149OO009,MYR,TSOF
+malaysia,Turiya Bhd,Turiya Bhd,MYL4359OO005,MYR,TURY
+malaysia,Timberwell Bhd,Timberwell Bhd,MYL7854OO002,MYR,TWEL
+malaysia,Tien Wah Press Holdings,Tien Wah Press Holdings Bhd,MYL7374OO001,MYR,TWPH
+malaysia,Uchi Technologies Bhd,Uchi Technologies Bhd,MYL7100OO000,MYR,UCHI
+malaysia,UMS Neiken,UMS-Neiken Group Bhd,MYL7227OO001,MYR,UMSN
+malaysia,United U Li Corporation,United U Li Corporation Bhd,MYL7133OO001,MYR,UULI
+malaysia,VS Industry Bhd,VS Industry Bhd,MYL6963OO002,MYR,VSID
+malaysia,Versatile Creative Bhd,Versatile Creative Bhd,MYL4995OO006,MYR,VSTL
+malaysia,Wah Seong Corporation Bhd,Wah Seong Corporation Bhd,MYL5142OO004,MYR,WAHE
+malaysia,Watta Holding Bhd,Watta Holding Bhd,MYL7226OO003,MYR,WATA
+malaysia,Wellcall Holdings Bhd,Wellcall Holdings Bhd,MYL7231OO003,MYR,WCAL
+malaysia,Wong Engineering Corp,Wong Engineering Corporation Bhd,MYL7050OO007,MYR,WENG
+malaysia,White Horse Bhd,White Horse Bhd,MYL5009OO005,MYR,WHSE
+malaysia,WZ Satu Bhd,WZ Satu Bhd,MYL7245OO003,MYR,WZRB
+malaysia,YKGI Holdings Bhd,YKGI Holdings Bhd,MYL7020OO000,MYR,YKGI
+malaysia,Yi Lai,Yi-Lai Bhd,MYL5048OO003,MYR,YLAI
+malaysia,YLI Holdings Bhd,YLI Holdings Bhd,MYL7014OO003,MYR,YLIH
+malaysia,G3 Global,G3 Global Bhd,MYL7184OO004,MYR,GLOA
+malaysia,Malakoff Corporation Bhd,Malakoff Corporation Bhd,MYL5264OO006,MYR,MALA
+malaysia,Hibiscus Petroleum BHD,Hibiscus Petroleum BHD,MYL5199OO004,MYR,HIBI
+malaysia,Sedania Innovator Bhd,Sedania Innovator Bhd,MYQ0178OO002,MYR,SEDA
+malaysia,Xin Hwa Holdings Bhd,Xin Hwa Holdings Bhd,MYL5267OO009,MYR,XINW
+malaysia,ES Ceramics Technology Bhd,ES Ceramics Technology Bhd,MYQ0100OO006,MYR,ESCM
+malaysia,Ikhmas Jaya Group Bhd,Ikhmas Jaya Group Bhd,MYL5268OO007,MYR,IKHM
+malaysia,JHM Consolidation Bhd,JHM Consolidation Bhd,MYQ0127OO009,MYR,JHMC
+malaysia,Privasia Technology Bhd,Privasia Technology Bhd,MYQ0123OO008,MYR,PRTB
+malaysia,Sunway Construction Group Bhd,Sunway Construction Group Bhd,MYL5263OO008,MYR,SCOG
+malaysia,Sersol Bhd,Sersol Bhd,MYQ0055OO002,MYR,SSOL
+malaysia,Aemulus Holdings Bhd,Aemulus Holdings Bhd,MYQ0181OO006,MYR,AEML
+malaysia,Al-Salam Real Estate,Al-Salam Real Estate Investment Trust,MYL5269TO004,MYR,ALSA
+malaysia,Sumatec Resources Bhd,Sumatec Resources Bhd,MYL1201OO002,MYR,SUTR
+malaysia,Tune Protect Group Bhd,Tune Protect Group Bhd,MYL5230OO007,MYR,TUNE
+malaysia,Dolphin International Bhd,Dolphin International Bhd,MYL5265OO003,MYR,DOLP
+malaysia,Kein Hing International Bhd,Kein Hing International Bhd,MYL7199OO002,MYR,KEHG
+malaysia,MESB Bhd,MESB Bhd,MYL7234OO007,MYR,MESB
+malaysia,Malaysia Steel Works KL Bhd,Malaysia Steel Works KL Bhd,MYL5098OO008,MYR,MSWK
+malaysia,Metronic Global Bhd,Metronic Global Bhd,MYQ0043OO008,MYR,MTNC
+malaysia,Malayan United Industries Bhd,Malayan United Industries Bhd,MYL3891OO008,MYR,MUIB
+malaysia,Nationwide Express,Nationwide Express Holdings Bhd,MYL9806OO000,MYR,NEXP
+malaysia,Naim Indah,Naim Indah Corporation Bhd,MYL4464OO003,MYR,PEGA
+malaysia,NPC Resources Bhd,NPC Resources Bhd,MYL5047OO005,MYR,NPCR
+malaysia,OCB Bhd,OCB Bhd,MYL5533OO004,MYR,OCBB
+malaysia,Olympia Industries Bhd,Olympia Industries Bhd,MYL3018OO008,MYR,OLYM
+malaysia,Oversea Enterprise Bhd,Oversea Enterprise Bhd,MYQ0153OO005,MYR,OVER
+malaysia,Pansar Bhd,Pansar Bhd,MYL8419OO003,MYR,PANS
+malaysia,PBA Holdings Bhd,PBA Holdings Bhd,MYL5041OO008,MYR,PBAH
+malaysia,PDZ Holdings Bhd,PDZ Holdings Bhd,MYL6254OO006,MYR,PDZH
+malaysia,Perak Corporation Bhd,Perak Corporation Bhd,MYL8346OO008,MYR,PERA
+malaysia,Progressive Impact Corporation Bhd,Progressive Impact Corporation Bhd,MYL7201OO006,MYR,PGSV
+malaysia,Pharmaniaga Bhd,Pharmaniaga Bhd,MYL7081OO002,MYR,PHMA
+malaysia,PJBumi Bhd,PJBumi Bhd,MYL7163OO008,MYR,PJSB
+malaysia,Pantech Group Holdings Bhd,Pantech Group Holdings Bhd,MYL5125OO009,MYR,PNTE
+malaysia,Prestariang Bhd,Prestariang Bhd,MYL5204OO002,MYR,PSTG
+malaysia,Petra Energy Bhd,Petra Energy Bhd,MYL5133OO003,MYR,PTRE
+malaysia,Quality Concrete Holdings Bhd,Quality Concrete Holdings Bhd,MYL7544OO009,MYR,QCHB
+malaysia,Ralco Corporation Bhd,Ralco Corporation Bhd,MYL7498OO008,MYR,RALC
+malaysia,RGB International Bhd,RGB International Bhd,MYQ0037OO000,MYR,RGBI
+malaysia,Reliance Pacific,Reliance Pacific Bhd,MYL8885OO005,MYR,AVIL
+malaysia,Samchem Holdings Bhd,Samchem Holdings Bhd,MYL5147OO003,MYR,SAHB
+malaysia,Scicom MSC Bhd,Scicom MSC Bhd,MYQ0099OO000,MYR,SCCM
+malaysia,Scomi Energy Services Bhd,Scomi Energy Services Bhd,MYL7045OO007,MYR,SCES
+malaysia,See Hup Consolidated Bhd,See Hup Consolidated Bhd,MYL7053OO001,MYR,SCHB
+malaysia,SCH Group Bhd,SCH Group Bhd,MYQ0161OO008,MYR,SCHG
+malaysia,SEG International Bhd,SEG International Bhd,MYL9792OO002,MYR,SEDU
+malaysia,Seni Jaya Corporation Bhd,Seni Jaya Corporation Bhd,MYL9431OO007,MYR,SENI
+malaysia,Seremban Engineering Bhd,Seremban Engineering Bhd,MYL5163OO000,MYR,SERE
+malaysia,SKB Shutters Corporation Bhd,SKB Shutters Corporation Bhd,MYL7115OO008,MYR,SKBC
+malaysia,Salcon Bhd,Salcon Engineering Berhad,MYL8567OO009,MYR,SLCN
+malaysia,DWL Resources,DWL Resources Bhd,MYL7165OO003,MYR,DWLR
+malaysia,Star Media Group Bhd,Star Media Group Bhd,MYL6084OO007,MYR,STAR
+malaysia,Suria Capital Holdings Bhd,Suria Capital Holdings Bhd,MYL6521OO008,MYR,SURI
+malaysia,Suiwah Corporation Bhd,Suiwah Corporation Bhd,MYL9865OO006,MYR,SWAH
+malaysia,Ranhill Holdings,Ranhill Holdings Ltd,MYL5272OO009,MYR,RANH
+malaysia,Shin Yang Shipping Corporation Bhd,Shin Yang Shipping Corporation Bhd,MYL5173OO009,MYR,SYSC
+malaysia,Tasco Bhd,Tasco Bhd,MYL5140OO008,MYR,TASC
+malaysia,Texchem Resources Bhd,Texchem Resources Bhd,MYL8702OO002,MYR,TEXC
+malaysia,Teck Guan Perdana Bhd,Teck Guan Perdana Bhd,MYL7439OO002,MYR,TGPB
+malaysia,TH Heavy Engineering Bhd,TH Heavy Engineering Bhd,MYL7206OO005,MYR,THHE
+malaysia,T7 Global,T7 Global Bhd,MYL7228OO009,MYR,TGLO
+malaysia,TMC Life Sciences Bhd,TMC Life Sciences Bhd,MYQ0101OO004,MYR,TMCN
+malaysia,Tiong Nam Logistics Holdings Bhd,Tiong Nam Logistics Holdings Bhd,MYL8397OO001,MYR,TNTT
+malaysia,Toyo Ink Group Bhd,Toyo Ink Group Bhd,MYL7173OO007,MYR,TOYG
+malaysia,Turbo Mech Bhd,Turbo Mech Bhd,MYL5167OO001,MYR,TURB
+malaysia,Ta Win Holdings Bhd,Ta Win Holdings Bhd,MYL7097OO008,MYR,TWHB
+malaysia,Taliworks Corporation Bhd,Taliworks Corporation Bhd,MYL8524OO000,MYR,TWRK
+malaysia,Tex Cycle Technology M Bhd,Tex Cycle Technology M Bhd,MYQ0089OO001,MYR,TXCY
+malaysia,Unimech Group Bhd,Unimech Group Bhd,MYL7091OO001,MYR,UMEC
+malaysia,UMS Holdings Bhd,UMS Holdings Bhd,MYL7137OO002,MYR,UMSH
+malaysia,Utusan Melayu Malaysia Bhd,Utusan Melayu Malaysia Bhd,MYL5754OO006,MYR,UTUS
+malaysia,Uzma Bhd,Uzma Bhd,MYL7250OO003,MYR,UZMA
+malaysia,Vertice,Vertice Bhd,MYL7240OO004,MYR,VERT
+malaysia,Warisan TC Holdings Bhd,Warisan TC Holdings Bhd,MYL5016OO000,MYR,WATC
+malaysia,Widetech Malaysia Bhd,Widetech Malaysia Bhd,MYL7692OO006,MYR,WIDE
+malaysia,Woodlandor Holdings Bhd,Woodlandor Holdings Bhd,MYL7025OO009,MYR,WLAN
+malaysia,XOX Bhd,XOX Bhd,MYQ0165OO009,MYR,XOXB
+malaysia,Kim Teck Cheong Consolidated Bhd,Kim Teck Cheong Consolidated Bhd,MYQ0180OO008,MYR,KIMT
+malaysia,MMS Ventures Bhd,MMS Ventures Bhd,MYQ0113OO009,MYR,MMST
+malaysia,Red Sena Bhd,Red Sena Bhd,MYL5270OO003,MYR,RED
+malaysia,Macpie,Macpie Bhd,MYQ0140OO002,MYR,MACP
+malaysia,MMAG Holdings,MMAG Holdings Bhd,MYQ0034OO007,MYR,MMAG
+malaysia,Chin Hin Bhd,Chin Hin Group Bhd,MYL5273OO007,MYR,CHIU
+malaysia,Vortex Consolidated,Vortex Consolidated Bhd,MYQ0060OO002,MYR,VORT
+malaysia,Vivocom Intl Holdings Bhd,Vivocom Intl Holdings Bhd,MYQ0069OO003,MYR,VIVO
+malaysia,myNEWS,myNEWS Holdings Bhd,MYL5275OO002,MYR,MYNE
+malaysia,Orion lXL,Orion lXL Bhd,MYQ0079OO002,MYR,ORIO
+malaysia,Lambo,Lambo Group Bhd,MYQ0018OO000,MYR,LAMB
+malaysia,Pecca Group,Pecca Group Bhd,MYL5271OO001,MYR,PECC
+malaysia,LKL International Bhd,LKL International Bhd,MYQ0182OO004,MYR,LKLI
+malaysia,Salutica Bhd,Salutica Bhd,MYQ0183OO002,MYR,SALU
+malaysia,Gabungan,Gabungan AQRS Bhd,MYL5226OO005,MYR,GAQR
+malaysia,Dancomech,Dancomech Holdings Bhd,MYL5276OO000,MYR,DNCO
+malaysia,Mega Sun City,Mega Sun City Holdings Bhd,MYQ0081OO008,MYR,MESC
+malaysia,OCR Bhd,OCR Group Bhd,MYL7071PAV75,MYR,OCRGq
+malaysia,HSS Engineers,HSS Engineers Bhd,MYQ0185OO007,MYR,HSSE
+malaysia,Solution Engineering,Solution Engineering Holdings Bhd,MYQ0093OO003,MYR,SLEG
+malaysia,Perak Transit,Perak Transit Bhd,MYQ0186OO005,MYR,PERT
+malaysia,KYM Bhd,KYM Holdings Bhd,MYL8362OO005,MYR,KYMH
+malaysia,Leader Steel Bhd,Leader Steel Holdings Bhd,MYL9881OO003,MYR,LEAD
+malaysia,Metrod Bhd,Metrod Holdings Bhd,MYL6149OO008,MYR,MROD
+malaysia,NWP Bhd,NWP Holdings Bhd,MYL5025OO001,MYR,NWPH
+malaysia,SMISoration Bhd,SMIS Corporation Bhd,MYL7132OO003,MYR,SMBH
+malaysia,Transocean Bhd,Transocean Holdings Bhd,MYL7218OO000,MYR,TOCE
+malaysia,Wang-Zheng Bhd,Wang-Zheng Bhd,MYL7203OO002,MYR,WGZH
+malaysia,Fintec Global,Fintec Global Bhd,MYQ0150OO001,MYR,FINT
+malaysia,Advance Info Marketing,Advance Information Marketing Bhd,MYQ0122OO000,MYR,AIMD
+malaysia,Ancom Logistics,Ancom Logistics Bhd,MYQ0048OO007,MYR,ANCO
+malaysia,Asia Media,Asia Media Group Bhd,MYQ0159OO002,MYR,ASMG
+malaysia,Asia Poly,Asia Poly Holdings Bhd,MYQ0105OO005,MYR,ASPY
+malaysia,AT Systematization,AT Systematization Bhd,MYQ0072OO007,MYR,ATSM
+malaysia,Borneo Aqua Harvest,Borneo Aqua Harvest Bhd,MYQ0098OO002,MYR,BAHV
+malaysia,Barakah Offshore Petroleum,Barakah Offshore Petroleum Bhd,MYL7251OO001,MYR,BARA
+malaysia,BCM Alliance,BCM Alliance Bhd,MYQ0187OO003,MYR,BCMA
+malaysia,Brite Tech,Brite Tech Bhd,MYQ0011OO005,MYR,BECH
+malaysia,China Automobile Parts,China Automobile Parts Holdings Ltd,BMG211301020,MYR,CAPH
+malaysia,Careplus Group,Careplus Group Bhd,MYQ0163OO004,MYR,CARE
+malaysia,ConnectCounty,ConnectCounty Holdings Bhd,MYQ0102OO002,MYR,CCTY
+malaysia,DGB Asia,DGB Asia Bhd,MYQ0152OO007,MYR,DGBA
+malaysia,Diversified Gateway Solutions,Diversified Gateway Solutions Bhd,MYQ0131OO001,MYR,DGSB
+malaysia,Digistar,Digistar Corporation Bhd,MYQ0029OO007,MYR,DIGS
+malaysia,Econpile,Econpile Holdings Bhd,MYL5253OO009,MYR,ECOH
+malaysia,Eduspec,Eduspec Holdings Bhd,MYQ0107OO001,MYR,EDUS
+malaysia,EITA Resources,EITA Resources Bhd,MYL5208OO003,MYR,EITA
+malaysia,ELK-Desa Resources,ELK-Desa Resources Bhd,MYL5228OO001,MYR,ELKD
+malaysia,Elsoft Research,Elsoft Research Bhd,MYQ0090OO009,MYR,ELSR
+malaysia,Focus Dynamics,Focus Dynamics Group Bhd,MYQ0116OO002,MYR,FCDY
+malaysia,G Neptune,G Neptune Bhd,MYQ0045OO003,MYR,GNET
+malaysia,Green Ocean,Green Ocean Corporation Bhd,MYQ0074OO003,MYR,GOCE
+malaysia,Grand Central Enterprises,Grand Central Enterprises Bhd,MYL5592OO000,MYR,GRAN
+malaysia,Grand-Flo,Grand-Flo Bhd,MYQ0056OO000,MYR,GRFL
+malaysia,Greenyield,Greenyield Bhd,MYQ0136OO000,MYR,GRYB
+malaysia,Genetec Tech,Genetec Technology Bhd,MYQ0104OO008,MYR,GTCY
+malaysia,Heng Huat Resources,Heng Huat Resources Group Bhd,MYQ0175OO008,MYR,HENG
+malaysia,Hiap Huat,Hiap Huat Holdings Bhd,MYQ0160OO000,MYR,HIAP
+malaysia,Icon Offshore,Icon Offshore Bhd,MYL5255OO004,MYR,ICON
+malaysia,IFCA MSC,IFCA MSC Bhd,MYQ0023OO000,MYR,IFCA
+malaysia,Ideal Jacobs,Ideal Jacobs Malaysia Corporation Bhd,MYQ0162OO006,MYR,WIDA
+malaysia,Inix Tech,Inix Technologies Holdings Bhd,MYQ0094OO001,MYR,INIX
+malaysia,Innity Corporation,Innity Corporation Bhd,MYQ0147OO007,MYR,INNY
+malaysia,Insas Pref,Insas Bhd Pref,MYL3379PAU25,MYR,INSS_p
+malaysia,IRIS Corporation,IRIS Corporation Bhd,MYQ0010OO007,MYR,IRIB
+malaysia,JAG,JAG Bhd,MYQ0024OO008,MYR,JAGB
+malaysia,Kanger Intl,Kanger International Bhd,MYQ0170OO009,MYR,KANG
+malaysia,Karyon Industries,Karyon Industries Bhd,MYQ0054OO005,MYR,KARY
+malaysia,Kelington Group,Kelington Group Bhd,MYQ0151OO009,MYR,KELG
+malaysia,K-One Tech,K-One Technology Bhd,MYQ0111OO003,MYR,KONE
+malaysia,Kronologi Asia,Kronologi Asia Bhd,MYQ0176OO006,MYR,KRON
+malaysia,Landmarks,Landmarks Bhd,MYL1643OO005,MYR,LMHS
+malaysia,YBS Intl,YBS International Bhd,MYQ0025OO005,MYR,YBSI
+malaysia,Lingkaran Trans Kota,Lingkaran Trans Kota Holdings Bhd,MYL6645OO005,MYR,LTKH
+malaysia,Microlink Solutions,Microlink Solutions Bhd,MYQ0126OO001,MYR,MCRK
+malaysia,Mikro MSC,Mikro MSC Bhd,MYQ0112OO001,MYR,MIKB
+malaysia,Mlabs Systems,Mlabs Systems Bhd,MYQ0085OO009,MYR,MLBS
+malaysia,M-Mode,M-Mode Bhd,MYQ0059OO004,MYR,ECOB
+malaysia,M N C Wireless,M N C Wireless Bhd,MYQ0103OO000,MYR,MNCW
+malaysia,MQ Tech,MQ Technology Bhd,MYQ0070OO001,MYR,MQTE
+malaysia,M3 Tech Asia,M3 Technologies Asia Bhd,MYQ0017OO002,MYR,MTAB
+malaysia,mTouche Tech,mTouche Technology Bhd,MYQ0092OO005,MYR,MTOU
+malaysia,Mexter Tech,Mexter Technology Bhd,MYQ0075OO000,MYR,LYCH
+malaysia,NetX,NetX Holdings Bhd,MYQ0020OO006,MYR,NETX
+malaysia,Nexgram,Nexgram Holdings Bhd,MYQ0096OO006,MYR,NEXG
+malaysia,N2N Connect,N2N Connect Bhd,MYQ0108OO009,MYR,NNCB
+malaysia,Nova MSC,Nova MSC Bhd,MYQ0026OO003,MYR,NOVS
+malaysia,OCK Group,OCK Group Bhd,MYQ0172OO005,MYR,OCKG
+malaysia,OpenSys M,OpenSys M Bhd,MYQ0040OO004,MYR,OPYS
+malaysia,OSK Ventures Intl,OSK Ventures International Bhd,MYQ0053OO007,MYR,OSKV
+malaysia,Pasukhas Group,Pasukhas Group Bhd,MYQ0177OO004,MYR,PASU
+malaysia,PESTECH Intl,PESTECH International Bhd,MYL5219OO000,MYR,PEIN
+malaysia,Pan Malaysia,Pan Malaysia Holdings Bhd,MYL1287OO001,MYR,PGKN
+malaysia,PeterLabs,PeterLabs Holdings Bhd,MYQ0171OO007,MYR,PLHB
+malaysia,Plastrade Tech,Plastrade Technology Bhd,MYQ0038OO008,MYR,PLTD
+malaysia,UCrest,UCrest Bhd,MYQ0005OO007,MYR,UCRE
+malaysia,Puncak Niaga,Puncak Niaga Holdings Bhd,MYL6807OO001,MYR,PNHB
+malaysia,PUC,PUC Bhd,MYQ0007OO003,MYR,PUCB
+malaysia,Straits Inter Logistics,Straits Inter Logistics Bhd,MYQ0080OO000,MYR,STRA
+malaysia,Reach Energy,Reach Energy Bhd,MYL5256OO002,MYR,RESE
+malaysia,Rev Asia,Rev Asia Bhd,MYQ0173OO003,MYR,REVA
+malaysia,Rexit,Rexit Bhd,MYQ0106OO003,MYR,REXT
+malaysia,Redtone International,Redtone International Bhd,MYQ0032OO001,MYR,RTON
+malaysia,Sasbadi,Sasbadi Holdings Bhd,MYL5252OO001,MYR,SAHO
+malaysia,Sanichi Techn,Sanichi Technology Bhd,MYQ0133OO007,MYR,SAIH
+malaysia,SCC,SCC Holdings Bhd,MYQ0158OO004,MYR,SCCH
+malaysia,SC Estate Builder,SC Estate Builder Bhd,MYQ0109OO007,MYR,SCST
+malaysia,Supercomnet Tech,Supercomnet Technologies Bhd,MYQ0001OO006,MYR,SCTH
+malaysia,Marine General,Marine & General Bhd,MYL5078OO000,MYR,MARI
+malaysia,Shangri La Hotels Malaysia,Shangri La Hotels Malaysia Bhd,MYL5517OO007,MYR,SHGM
+malaysia,Silver Ridge,Silver Ridge Holdings Bhd,MYQ0129OO005,MYR,SIVR
+malaysia,SMRT,SMRT Holdings Bhd,MYQ0117OO000,MYR,SMRS
+malaysia,Solid Automotive,Solid Automotive Bhd,MYL5242OO002,MYR,SOIL
+malaysia,DWL Resources,DWL Resources Bhd,MYL7165PAV49,MYR,DWLRq
+malaysia,Systech,Systech Bhd,MYQ0050OO003,MYR,SYST
+malaysia,Sunzen Biotech,Sunzen Biotech Bhd,MYQ0148OO005,MYR,SZBB
+malaysia,Techfast,Techfast Holdings Bhd,MYQ0084OO002,MYR,TCHF
+malaysia,TFP Solutions,TFP Solutions Bhd,MYQ0145OO001,MYR,TFPS
+malaysia,Titijaya Land,Titijaya Land Bhd,MYL5239OO008,MYR,TITI
+malaysia,TechnoDex,TechnoDex Bhd,MYQ0132OO009,MYR,TOEX
+malaysia,VisDynamics,VisDynamics Holdings Bhd,MYQ0120OO004,MYR,VSDY
+malaysia,Vsolar Group,Vsolar Group Bhd,MYQ0066OO009,MYR,VSOL
+malaysia,Xinghe,Xinghe Holdings Bhd,MYQ0095OO008,MYR,XINH
+malaysia,YGL Convergence,YGL Convergence Bhd,MYQ0086OO007,MYR,YGLC
+malaysia,Yong Tai,Yong Tai Bhd,MYL7066OO003,MYR,YONG
+malaysia,YTL Hospitality REIT,YTL Hospitality REIT,MYL5109TO002,MYR,YTLR
+malaysia,Ann Joo Resources Pref,Ann Joo Resources Bhd Pref,MYL6556PAYB6,MYR,ANNJq
+malaysia,S P Setia Pref,S P Setia Bhd Pref,MYL8664PA000,MYR,SETIq
+malaysia,Yong Tai Pref,Yong Tai Bhd Pref,MYL7066PA6B8,MYR,YONGq
+malaysia,Rhone Ma,Rhone Ma Holdings Bhd,MYL5278OO006,EUR,RHON
+malaysia,FoundPac,FoundPac Group Bhd,MYL5277OO008,MYR,FOUN
+malaysia,HLT Global,HLT Global Bhd,MYQ0188OO001,MYR,HLTG
+malaysia,Matang,Matang Bhd,MYQ0189OO009,MYR,MATA
+malaysia,KIP REIT,KIP Real Estate Investment Trust,MYL5280TO001,MYR,KIPR
+malaysia,Serba Dinamik,Serba Dinamik Holdings Bhd,MYL5279OO004,MYR,SERB
+malaysia,Federal International,Federal International Holdings Bhd,MYL8605PA6B4,MYR,FIHBq
+malaysia,Eco World Intl,Eco World International Bhd,MYL5283OO006,MYR,ECOD
+malaysia,Eversafe Rubber,Eversafe Rubber Bhd,MYQ0190OO007,MYR,EVES
+malaysia,Cabnet Holdings,Cabnet Holdings Bhd,MYQ0191OO005,MYR,CABN
+malaysia,Inta Bina Group,Inta Bina Group Bhd,MYQ0192OO003,MYR,INTA
+malaysia,Advancecon Holdings,Advancecon Holdings Bhd,MYL5281OO000,MYR,ADVN
+malaysia,Lotte Chemical,Lotte Chemical Titan Holding BHD,MYL5284OO004,MYR,LOTT
+malaysia,MRCB-Quill Unit,MRCB-Quill REIT Unit,MYL5123TO003,MYR,MQRE
+malaysia,JF Tech,JF Technology BHD,MYQ0146OO009,MYR,JFTB
+malaysia,LBS Bina Pref,LBS Bina Group Bhd Pref,MYL5789PA008,MYR,LBSBq
+malaysia,Hektar REIT,Hektar Real Estate Investment Trust,MYL5121TO007,MYR,HEKR
+malaysia,Kejuruteraan Asastera,Kejuruteraan Asastera Bhd,MYQ0193OO001,MYR,KEJU
+malaysia,Sime Darby Plantation,Sime Darby Plantation Bhd,MYL5285OO001,MYR,SIPL
+malaysia,Sime Darby Property,Sime Darby Property Bhd,MYL5288OO005,MYR,SIPR
+malaysia,Asia Poly Pref,Asia Poly Holdings Bhd Pref,MYQ0105PAWC9,MYR,ASPYq
+malaysia,ATTA Global Pref,ATTA Global Group Bhd Pref,MYL7099PAWB0,MYR,ATTAq
+malaysia,MMAG Pref,MMAG Holdings Bhd Pref,MYQ0034PAWB3,MYR,MMAGq
+malaysia,Asdion,Asdion Bhd,MYQ0068OO005,MYR,ASDN
+malaysia,Binasat Communications,Binasat Communications Bhd,MYQ0195OO006,MYR,BINC
+malaysia,UOA REIT,UOA Real Estate Investment Trust,MYL5110TO000,MYR,UOAR
+malaysia,Amanah Harta Tanah,Amanah Harta Tanah PNB,MYL4952TO006,MYR,AHBM
+malaysia,Metro Healthcare,Metro Healthcare Berhad,MYL03005O005,MYR,METO
+malaysia,GDB,GDB Holdings Bhd,MYQ0198OO000,MYR,GDBH
+malaysia,QES,QES Group Bhd,MYQ0196OO004,MYR,QESG
+malaysia,Tri-Mode,Tri-Mode System M Bhd,MYQ0199OO008,MYR,TRIM
+malaysia,GFM Services,GFM Services Bhd,MYQ0039OO006,MYR,GFMS
+malaysia,Atrium,Atrium Real Estate Investment Trust,MYL5130TO008,MYR,ATRL
+malaysia,AmFIRST,AmFIRST Real Estate Investment Trust,MYL5120TO009,MYR,AMFL
+malaysia,AmanahRaya Real Estate,AmanahRaya Real Estate Investment Trust,MYL5127TO004,MYR,AMRY
+malaysia,Tower Real Estate,Tower Real Estate Investment Trust,MYL5111TO008,MYR,TWRE
+malaysia,MI Technovation,MI Technovation Bhd,MYL5286OO009,MYR,MITE
+malaysia,Revenue Group,Revenue Group Bhd,MYQ0200OO004,MYR,REVE
+malaysia,Radiant Globaltech,Radiant Globaltech Bhd,MYQ0202OO000,MYR,RADI
+malaysia,Nova Wellness,Nova Wellness Group Bhd,MYQ0201OO002,MYR,NOVW
+malaysia,Securemetric,Securemetric Berhad,MYQ0203OO008,MYR,SECU
+malaysia,Techbond,Techbond Group Bhd,MYL5289OO003,MYR,TECB
+malaysia,Wegmans,Wegmans Holdings Berhad,MYQ0197OO002,MYR,WEGM
+malaysia,Topvision Eye Specialist,Topvision Eye Specialist,MYL03013O009,MYR,TOPV
+malaysia,CRG,CRG Inc,MYL03016O002,MYR,CRGI
+malaysia,Gagasan Nadi Cergas,Gagasan Nadi Cergas Berhad,MYQ0206OO001,MYR,GAGA
+malaysia,Dpi,Dpi Holdings Berhad,MYQ0205OO003,MYR,DPIH
+malaysia,Uni Wall Aps Holdings,Uni Wall Aps Holdings,MYL03017O000,MYR,UNIW
+malaysia,Supreme Consolidated Resources,Supreme Consolidated Resources,MYL03018O008,MYR,SUPR
+malaysia,Perdana Petroleum,Perdana Petroleum Bhd,MYL7108OO003,MYR,PTRD
+malaysia,Smile Link Healthcare,Smile-Link Healthcare Global Bhd,MYL03023O008,MYR,SMIL
+malaysia,Leong Hup International Berhad,Leong Hup International Berhad,MYL6633OO001,MYR,LEOG
+malaysia,Greatech Technology,Greatech Technology Bhd,MYQ0208OO007,MYR,GREA
+malaysia,HPMT Holdings,HPMT Holdings Bhd,MYL5291OO009,MYR,HPMT
+malaysia,Mestron Holdings,Mestron Holdings,MYQ0207OO009,MYR,MEST
+malaysia,Parlo Bhd,Parlo Bhd,MYQ0022OO002,MYR,PARL
+malaysia,Mtag Group Berhad,Mtag Group Berhad,MYQ0213OO007,MYR,MTAG
